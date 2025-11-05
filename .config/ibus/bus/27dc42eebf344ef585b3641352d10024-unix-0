@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/home/kavya/.cache/ibus/dbus-2l2duDx2,guid=2d4247252c8c2dc2d9f03fe4690b4d9e
+IBUS_DAEMON_PID=1422
