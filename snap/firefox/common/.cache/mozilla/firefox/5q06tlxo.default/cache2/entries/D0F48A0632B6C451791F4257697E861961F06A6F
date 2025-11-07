@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://newtab/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Thu, 06 Nov 2025 09:18:01 GMT -->
+  <!-- Cached: Fri, 07 Nov 2025 09:05:15 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -25,7 +25,9 @@
                       
                       " tabindex="-1"></button><label for="solid-colors" data-l10n-id="newtab-wallpaper-category-title-colors">newtab-wallpaper-category-title-colors</label></div><div><button id="photographs" style="background-image:url(https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/e94b1e49-c518-40d6-98e3-dffab6cc370d.avif)" class="wallpaper-input
                       
-                      " tabindex="-1"></button><label for="photographs" data-l10n-id="newtab-wallpaper-category-title-photographs">newtab-wallpaper-category-title-photographs</label></div><div><button id="celestial" style="background-image:url(https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/55b678ff-15c3-49d5-bdbc-40f8413cfb8a.avif)" class="wallpaper-input
+                      " tabindex="-1"></button><label for="photographs" data-l10n-id="newtab-wallpaper-category-title-photographs">newtab-wallpaper-category-title-photographs</label></div><div><button id="firefox" style="background-image:url(https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/6f7e2155-df50-4917-81fd-9c6f16e14965.svg)" class="wallpaper-input
+                      
+                      " tabindex="-1"></button><label for="firefox"></label></div><div><button id="celestial" style="background-image:url(https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/55b678ff-15c3-49d5-bdbc-40f8413cfb8a.avif)" class="wallpaper-input
                       
                       " tabindex="-1"></button><label for="celestial" data-l10n-id="newtab-wallpaper-category-title-celestial">newtab-wallpaper-category-title-celestial</label></div><div><button id="custom-wallpaper" style="background-color:" class="wallpaper-input
                       theme-custom-wallpaper
@@ -105,199 +107,199 @@
         showNotifications: true
       }
     }, &quot;ActivityStream:Content&quot;));
-  }" className="submit-report-btn"></moz-button></moz-button-group></form></dialog><div class="discovery-stream ds-layout ds-layout-topsites"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div class="ds-top-sites"><section class="collapsible-section top-sites" data-section-id="topsites"><div class="section-top-bar"><h2 class="section-title-container " style="visibility:hidden"><span class="section-title"><span data-l10n-id="newtab-section-header-topsites"></span></span></h2></div><div><div class="top-sites-list-wrapper"><ul role="group" aria-label="Shortcuts" class="top-sites-list"><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://github.com/kavya07k/kavya2025" tabindex="0" draggable="true" data-is-sponsored-link="false" aria-label="kavya07k/kavya2025" title="kavya07k/kavya2025" data-l10n-args="{&quot;title&quot;:&quot;kavya07k/kavya2025&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="k"><div class="top-site-icon rich-icon" style="background-image:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiAwQzcuMTYgMCAwIDcuMTYgMCAxNkMwIDIzLjA4IDQuNTggMjkuMDYgMTAuOTQgMzEuMThDMTEuNzQgMzEuMzIgMTIuMDQgMzAuODQgMTIuMDQgMzAuNDJDMTIuMDQgMzAuMDQgMTIuMDIgMjguNzggMTIuMDIgMjcuNDRDOCAyOC4xOCA2Ljk2IDI2LjQ2IDYuNjQgMjUuNTZDNi40NiAyNS4xIDUuNjggMjMuNjggNSAyMy4zQzQuNDQgMjMgMy42NCAyMi4yNiA0Ljk4IDIyLjI0QzYuMjQgMjIuMjIgNy4xNCAyMy40IDcuNDQgMjMuODhDOC44OCAyNi4zIDExLjE4IDI1LjYyIDEyLjEgMjUuMkMxMi4yNCAyNC4xNiAxMi42NiAyMy40NiAxMy4xMiAyMy4wNkM5LjU2IDIyLjY2IDUuODQgMjEuMjggNS44NCAxNS4xNkM1Ljg0IDEzLjQyIDYuNDYgMTEuOTggNy40OCAxMC44NkM3LjMyIDEwLjQ2IDYuNzYgOC44MiA3LjY0IDYuNjJDNy42NCA2LjYyIDguOTggNi4yIDEyLjA0IDguMjZDMTMuMzIgNy45IDE0LjY4IDcuNzIgMTYuMDQgNy43MkMxNy40IDcuNzIgMTguNzYgNy45IDIwLjA0IDguMjZDMjMuMSA2LjE4IDI0LjQ0IDYuNjIgMjQuNDQgNi42MkMyNS4zMiA4LjgyIDI0Ljc2IDEwLjQ2IDI0LjYgMTAuODZDMjUuNjIgMTEuOTggMjYuMjQgMTMuNCAyNi4yNCAxNS4xNkMyNi4yNCAyMS4zIDIyLjUgMjIuNjYgMTguOTQgMjMuMDZDMTkuNTIgMjMuNTYgMjAuMDIgMjQuNTIgMjAuMDIgMjYuMDJDMjAuMDIgMjguMTYgMjAgMjkuODggMjAgMzAuNDJDMjAgMzAuODQgMjAuMyAzMS4zNCAyMS4xIDMxLjE4QzI3LjQyIDI5LjA2IDMyIDIzLjA2IDMyIDE2QzMyIDcuMTYgMjQuODQgMCAxNiAwVjBaIiBmaWxsPSIjMjQyOTJFIi8+Cjwvc3ZnPgo=)"></div></div></div><div class="title"><span class="title-label" dir="auto">kavya07k/kavya2025</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;kavya07k/kavya2025&quot;}" class="context-menu-button icon" tabindex="0"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://accounts.google.com/v3/signin/challenge/selection?TL=ANzgctRpxsm0QMTM8sTWdL4-Bk7lNadBGIlitYs4Rhff_cH6mLn70nRnH2P0MctL&amp;app_domain=https%3A%2F%2Fgithub.com&amp;checkConnection=youtube%3A280&amp;checkedDomains=youtube&amp;client_id=1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com&amp;code_challenge=KEticCImu0EfGXmISnRM_Ow6w3c6cmuHAB9bguMnUz8&amp;code_challenge_method=S256&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP0ZCPJD9r6gpixB6vg4tGJ-eDv8lIgU9y-q_ODAMYJnV2LOMWj5I2MbOvMRvCgmYLFnuit0dSiRWWVvI3T9iUiWLCxvxUPaQ6gJro-0gHblJ9sWxVXHoSZr4QTzLmExa4O6_1kAZuMfdafzVtQoMQkSrbUmhSj7GLWdlTSAONbl6K7f-7mhttD6k_pvzZRJdYkjf_RHxFaCJlYQJ173Of2p3VXuDn6G1vnd7ZacQ3x5BXzyxdkRC5RrrFEHe2T99JYkfrQvpzMa_3a49jme95jUyzQkjAxcnuDSDGa2bGjzNrC2CXG38r_1tTCog7Qb5AXH9WMr_koAVhQ7FExW7_ckyKpgGLYxpO_xIkGRmOf7DDhPjDdjExmhZG6W2jlVTHlEd-2MC9GoSccXKqxIt2UuMogpvaESGK6O3tIYO15lDIOt5lwVrObdUlMQ-0TdMdB2tjjV4XNvcLtDCtx_O9IfK8fWQ%26flowName%3DGeneralOAuthFlow%26as%3DS-1137926433%253A1762351019716956%26client_id%3D1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com%23&amp;dsh=S-1137926433%3A1762351019716956&amp;flowName=GeneralOAuthFlow&amp;lid=1&amp;nonce=aed82e250f6280dfbaff26db388de8ab&amp;o2v=2&amp;opparams=%253F&amp;pstMsg=1&amp;rart=ANgoxcfJY1coGa4PUjTpf0ox_5ooc39hRag-ZQ85-qCZL6264XNANYtgwdGaCvmCxnFdpv_j-QFqIAFUucHVNCChWduRj-N9KzH4rG7fih_f8vSX3cwYYhg&amp;redirect_uri=https%3A%2F%2Fgithub.com%2Fsessions%2Fsocial%2Fgoogle%2Fcallback&amp;response_type=code&amp;scope=openid%20email%20profile&amp;service=lso&amp;state=d2781a4afd1aa7cf85ac13ce41d3515a" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Welcome" title="Welcome" data-l10n-args="{&quot;title&quot;:&quot;Welcome&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div></div><div class="top-site-icon default-icon" data-fallback="" style="background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFZUlEQVRYR71XDUyUdRj/vXdyBwfHyYeKimlEIYSDpCI/ckxWWNmX9qG2liaZpUtNc7SGZk6TOTdZthXoXE601mZbLWe6cIvBMChkls0MkJwf+I1yx3Fw9/b7v7738r7HwR2M9b89d++9/+f5Pb//8zz/LwlhNlmWY6k61+fzzZYkKYvPKRS7an6bvy3UaTSZTD/z+UfqiHchmxRKg6BpdFpEwAWUyFD6op82nZSDJLONNmcHsumXAAFsdLyZAKso5nAcB+oQo4eyk0Q2EKMzGEZQAjR6gPIdjTKG4jgIkVPEmkf5J7CvDwE6nkr5icqJgcreSxfQdfwouhvq0dPaDF/7LRFvmGIdME9MgSVrKqz5c2AeP6EPb2JeJeaTlJP6TgMBdeTVgc69ly/CWfYZuqoqFYcDNkmCdUYeopevgjlpnEFVJTFdHwmNADujKb8Ght197DA6Sksgu4OmsF8uUpQN9rUfwZr3RCAJkY5cf01oBLxe7w4Wy/t6bdfXX8G5+/Mhl0FkwVzYP9jQx57Fvd1sNq8XHQoBMdUof+qrXYz8TsnHQZ2PSEmF5dHpMI8dTwQJ3osX4KmrQU9T74yLfOZF2FcXKf3BZgd9pYtUKL0c/V6OfrFfURTbzcKFkLvcBlvhMIaglpzcoMQ89bW4s2MLrDPzELNi7YCRYxT2MAqFEkfuoFzWLzLO0vfg+qHWABCRngnH1lJIdv/iFxxfdjkh2aJDpo0+XfSZJAgsonaF30LubIa3KgOuyrHoqh+lvDbFJyCu/ABMjriQwINUWCAx/LsZ/qV+Q9+5T+Fr2qj89fw1Eq7DExGzaiNEQQ13YxrKJH7VMRQPa/n/vQDyzeOaL9/tZFie/RsYMWK4/YviPyEIXCeBeD96TxVXMU+b5kwa8xLMmQf6dZ6/1Rk2seIXrMjL6B2IsjCRgIcEIjQCldzwZJ8GappUBNN9nwwLgaV5FiyarrkSEfD8rwRenxmBxbMs2mD8BK4xAgn9pmD0fJinHByWCCzPt+DlXEMElBQYi7BhDuQb3HTU1mZJx+gZvyHCNLgibLnqQ2G5cf/YOM+KWZMNNXAiyDQs4TQsVtwf6UpGyZ0srHtkJZ5PyQ+72ITiN7XdKKv0GGwqVtiQ5OhdmpVpyDwspJZW5nLnObhrMrCzIwOH3JMUgPhIBw4U7EBC5MiwSHS4ZSz5shM3nL1b9z2JJuxdFhVo/6ogEKsuxVrvztrNqGhtNChPjkvBrrxiOCwDL8XdXqD4Wzfqmvmga28z/68Y8y+W4jH+zWgPV8M3/fqXnFex4MgauHqMm1GSLRHrc97C4+Nygkbi7K1WlPxSi5Y/nmJ/7zEyPlrCvneiEGUxhL+cm9Ey/3Z8P6Nwmoy0CjnSWoXi2tKgjibFjse0pIcwISaJu62EK53X0XDlNBqvnYHMj9mdClvbSkg9d/eOTfMjMTOtlxB9davbcZP+QLKdUVin97j/zPcoPbkvrLwHKkleO6La3sWSnCzD3Bd6LL5tHP2H4ll/JLMpa7MkZerBjv5bjS11XzAdgzuSmXmSL0x/DYVTnjNwE5cX+niMouQ38FCaSoUadt7dh9V22XUNuxr349j5avhCHUppkzP6QazOfgOicPWN2G3EFofSZv/7YMfybCoeDSQhDERxChJ1bafQ1H4eN7valUOyw2rHRPs4ZI+ajPzkaUiLu7dP2lTnBcQ1TK/+LiYiEoeoPGVIBRBgpIZdXEy0kfcbAX8HjaJYLJtotEY/OwZDSFQ7RZy2BY5xTqtA4VxOU9XL6UKC2MIhIM57lAo6LqFN00A2IQnoIiKWwKcDrucOtb+dv80i1Or1/DAdd4RD9j/w5nJL3xmBhgAAAABJRU5ErkJggg==)"></div></div></div><div class="title"><span class="title-label" dir="auto">Welcome</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Welcome&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.wikipedia.org/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Wikipedia" title="Wikipedia" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Wikipedia</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.youtube.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="YouTube" title="YouTube" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="Y"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">YouTube</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="http://ndtv.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="NDTV" title="NDTV" data-l10n-args="{&quot;title&quot;:&quot;NDTV&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="N"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/ndtv@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">NDTV</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;NDTV&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.reddit.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Reddit" title="Reddit" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="R"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Reddit</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer add-button hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="" data-l10n-id="newtab-topsites-add-shortcut-title" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto" data-l10n-id="newtab-topsites-add-shortcut-label"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li></ul></div><div class="edit-topsites-wrapper"></div></div></section></div></div></div></div><style data-styles="[[null]]"></style></div><section class="collapsible-section ds-layout" data-section-id="topstories"><div class="section-top-bar"><h2 class="section-title-container "><span class="section-title"><span data-l10n-id="newtab-section-header-stories"></span></span></h2></div><div><div class="discovery-stream ds-layout "><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div><div class="ds-card-grid     "><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://curlytales.com/india/food/healthy-food-items-to-keep-you-warm-boost-immunity-this-winter-season/?utm_source=firefox-newtab-en-intl" title="5 Healthy Food Items to Keep You Warm &amp; Boost Immunity This Winter Season" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+  }" className="submit-report-btn"></moz-button></moz-button-group></form></dialog><div class="discovery-stream ds-layout ds-layout-topsites"><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div class="ds-top-sites"><section class="collapsible-section top-sites" data-section-id="topsites"><div class="section-top-bar"><h2 class="section-title-container " style="visibility:hidden"><span class="section-title"><span data-l10n-id="newtab-section-header-topsites"></span></span></h2></div><div><div class="top-sites-list-wrapper"><ul role="group" aria-label="Shortcuts" class="top-sites-list"><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://github.com/kavya07k/kavya2025" tabindex="0" draggable="true" data-is-sponsored-link="false" aria-label="kavya07k/kavya2025" title="kavya07k/kavya2025" data-l10n-args="{&quot;title&quot;:&quot;kavya07k/kavya2025&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="k"><div class="top-site-icon rich-icon" style="background-image:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiAwQzcuMTYgMCAwIDcuMTYgMCAxNkMwIDIzLjA4IDQuNTggMjkuMDYgMTAuOTQgMzEuMThDMTEuNzQgMzEuMzIgMTIuMDQgMzAuODQgMTIuMDQgMzAuNDJDMTIuMDQgMzAuMDQgMTIuMDIgMjguNzggMTIuMDIgMjcuNDRDOCAyOC4xOCA2Ljk2IDI2LjQ2IDYuNjQgMjUuNTZDNi40NiAyNS4xIDUuNjggMjMuNjggNSAyMy4zQzQuNDQgMjMgMy42NCAyMi4yNiA0Ljk4IDIyLjI0QzYuMjQgMjIuMjIgNy4xNCAyMy40IDcuNDQgMjMuODhDOC44OCAyNi4zIDExLjE4IDI1LjYyIDEyLjEgMjUuMkMxMi4yNCAyNC4xNiAxMi42NiAyMy40NiAxMy4xMiAyMy4wNkM5LjU2IDIyLjY2IDUuODQgMjEuMjggNS44NCAxNS4xNkM1Ljg0IDEzLjQyIDYuNDYgMTEuOTggNy40OCAxMC44NkM3LjMyIDEwLjQ2IDYuNzYgOC44MiA3LjY0IDYuNjJDNy42NCA2LjYyIDguOTggNi4yIDEyLjA0IDguMjZDMTMuMzIgNy45IDE0LjY4IDcuNzIgMTYuMDQgNy43MkMxNy40IDcuNzIgMTguNzYgNy45IDIwLjA0IDguMjZDMjMuMSA2LjE4IDI0LjQ0IDYuNjIgMjQuNDQgNi42MkMyNS4zMiA4LjgyIDI0Ljc2IDEwLjQ2IDI0LjYgMTAuODZDMjUuNjIgMTEuOTggMjYuMjQgMTMuNCAyNi4yNCAxNS4xNkMyNi4yNCAyMS4zIDIyLjUgMjIuNjYgMTguOTQgMjMuMDZDMTkuNTIgMjMuNTYgMjAuMDIgMjQuNTIgMjAuMDIgMjYuMDJDMjAuMDIgMjguMTYgMjAgMjkuODggMjAgMzAuNDJDMjAgMzAuODQgMjAuMyAzMS4zNCAyMS4xIDMxLjE4QzI3LjQyIDI5LjA2IDMyIDIzLjA2IDMyIDE2QzMyIDcuMTYgMjQuODQgMCAxNiAwVjBaIiBmaWxsPSIjMjQyOTJFIi8+Cjwvc3ZnPgo=)"></div></div></div><div class="title"><span class="title-label" dir="auto">kavya07k/kavya2025</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;kavya07k/kavya2025&quot;}" class="context-menu-button icon" tabindex="0"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://accounts.google.com/v3/signin/challenge/selection?TL=ANzgctRpxsm0QMTM8sTWdL4-Bk7lNadBGIlitYs4Rhff_cH6mLn70nRnH2P0MctL&amp;app_domain=https%3A%2F%2Fgithub.com&amp;checkConnection=youtube%3A280&amp;checkedDomains=youtube&amp;client_id=1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com&amp;code_challenge=KEticCImu0EfGXmISnRM_Ow6w3c6cmuHAB9bguMnUz8&amp;code_challenge_method=S256&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP0ZCPJD9r6gpixB6vg4tGJ-eDv8lIgU9y-q_ODAMYJnV2LOMWj5I2MbOvMRvCgmYLFnuit0dSiRWWVvI3T9iUiWLCxvxUPaQ6gJro-0gHblJ9sWxVXHoSZr4QTzLmExa4O6_1kAZuMfdafzVtQoMQkSrbUmhSj7GLWdlTSAONbl6K7f-7mhttD6k_pvzZRJdYkjf_RHxFaCJlYQJ173Of2p3VXuDn6G1vnd7ZacQ3x5BXzyxdkRC5RrrFEHe2T99JYkfrQvpzMa_3a49jme95jUyzQkjAxcnuDSDGa2bGjzNrC2CXG38r_1tTCog7Qb5AXH9WMr_koAVhQ7FExW7_ckyKpgGLYxpO_xIkGRmOf7DDhPjDdjExmhZG6W2jlVTHlEd-2MC9GoSccXKqxIt2UuMogpvaESGK6O3tIYO15lDIOt5lwVrObdUlMQ-0TdMdB2tjjV4XNvcLtDCtx_O9IfK8fWQ%26flowName%3DGeneralOAuthFlow%26as%3DS-1137926433%253A1762351019716956%26client_id%3D1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com%23&amp;dsh=S-1137926433%3A1762351019716956&amp;flowName=GeneralOAuthFlow&amp;lid=1&amp;nonce=aed82e250f6280dfbaff26db388de8ab&amp;o2v=2&amp;opparams=%253F&amp;pstMsg=1&amp;rart=ANgoxcfJY1coGa4PUjTpf0ox_5ooc39hRag-ZQ85-qCZL6264XNANYtgwdGaCvmCxnFdpv_j-QFqIAFUucHVNCChWduRj-N9KzH4rG7fih_f8vSX3cwYYhg&amp;redirect_uri=https%3A%2F%2Fgithub.com%2Fsessions%2Fsocial%2Fgoogle%2Fcallback&amp;response_type=code&amp;scope=openid%20email%20profile&amp;service=lso&amp;state=d2781a4afd1aa7cf85ac13ce41d3515a" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Welcome" title="Welcome" data-l10n-args="{&quot;title&quot;:&quot;Welcome&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div></div><div class="top-site-icon default-icon" data-fallback="" style="background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFZUlEQVRYR71XDUyUdRj/vXdyBwfHyYeKimlEIYSDpCI/ckxWWNmX9qG2liaZpUtNc7SGZk6TOTdZthXoXE601mZbLWe6cIvBMChkls0MkJwf+I1yx3Fw9/b7v7738r7HwR2M9b89d++9/+f5Pb//8zz/LwlhNlmWY6k61+fzzZYkKYvPKRS7an6bvy3UaTSZTD/z+UfqiHchmxRKg6BpdFpEwAWUyFD6op82nZSDJLONNmcHsumXAAFsdLyZAKso5nAcB+oQo4eyk0Q2EKMzGEZQAjR6gPIdjTKG4jgIkVPEmkf5J7CvDwE6nkr5icqJgcreSxfQdfwouhvq0dPaDF/7LRFvmGIdME9MgSVrKqz5c2AeP6EPb2JeJeaTlJP6TgMBdeTVgc69ly/CWfYZuqoqFYcDNkmCdUYeopevgjlpnEFVJTFdHwmNADujKb8Ght197DA6Sksgu4OmsF8uUpQN9rUfwZr3RCAJkY5cf01oBLxe7w4Wy/t6bdfXX8G5+/Mhl0FkwVzYP9jQx57Fvd1sNq8XHQoBMdUof+qrXYz8TsnHQZ2PSEmF5dHpMI8dTwQJ3osX4KmrQU9T74yLfOZF2FcXKf3BZgd9pYtUKL0c/V6OfrFfURTbzcKFkLvcBlvhMIaglpzcoMQ89bW4s2MLrDPzELNi7YCRYxT2MAqFEkfuoFzWLzLO0vfg+qHWABCRngnH1lJIdv/iFxxfdjkh2aJDpo0+XfSZJAgsonaF30LubIa3KgOuyrHoqh+lvDbFJyCu/ABMjriQwINUWCAx/LsZ/qV+Q9+5T+Fr2qj89fw1Eq7DExGzaiNEQQ13YxrKJH7VMRQPa/n/vQDyzeOaL9/tZFie/RsYMWK4/YviPyEIXCeBeD96TxVXMU+b5kwa8xLMmQf6dZ6/1Rk2seIXrMjL6B2IsjCRgIcEIjQCldzwZJ8GappUBNN9nwwLgaV5FiyarrkSEfD8rwRenxmBxbMs2mD8BK4xAgn9pmD0fJinHByWCCzPt+DlXEMElBQYi7BhDuQb3HTU1mZJx+gZvyHCNLgibLnqQ2G5cf/YOM+KWZMNNXAiyDQs4TQsVtwf6UpGyZ0srHtkJZ5PyQ+72ITiN7XdKKv0GGwqVtiQ5OhdmpVpyDwspJZW5nLnObhrMrCzIwOH3JMUgPhIBw4U7EBC5MiwSHS4ZSz5shM3nL1b9z2JJuxdFhVo/6ogEKsuxVrvztrNqGhtNChPjkvBrrxiOCwDL8XdXqD4Wzfqmvmga28z/68Y8y+W4jH+zWgPV8M3/fqXnFex4MgauHqMm1GSLRHrc97C4+Nygkbi7K1WlPxSi5Y/nmJ/7zEyPlrCvneiEGUxhL+cm9Ey/3Z8P6Nwmoy0CjnSWoXi2tKgjibFjse0pIcwISaJu62EK53X0XDlNBqvnYHMj9mdClvbSkg9d/eOTfMjMTOtlxB9davbcZP+QLKdUVin97j/zPcoPbkvrLwHKkleO6La3sWSnCzD3Bd6LL5tHP2H4ll/JLMpa7MkZerBjv5bjS11XzAdgzuSmXmSL0x/DYVTnjNwE5cX+niMouQ38FCaSoUadt7dh9V22XUNuxr349j5avhCHUppkzP6QazOfgOicPWN2G3EFofSZv/7YMfybCoeDSQhDERxChJ1bafQ1H4eN7valUOyw2rHRPs4ZI+ajPzkaUiLu7dP2lTnBcQ1TK/+LiYiEoeoPGVIBRBgpIZdXEy0kfcbAX8HjaJYLJtotEY/OwZDSFQ7RZy2BY5xTqtA4VxOU9XL6UKC2MIhIM57lAo6LqFN00A2IQnoIiKWwKcDrucOtb+dv80i1Or1/DAdd4RD9j/w5nJL3xmBhgAAAABJRU5ErkJggg==)"></div></div></div><div class="title"><span class="title-label" dir="auto">Welcome</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Welcome&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.wikipedia.org/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Wikipedia" title="Wikipedia" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="W"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/wikipedia-org@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Wikipedia</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Wikipedia&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.youtube.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="YouTube" title="YouTube" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="Y"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/youtube-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">YouTube</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;YouTube&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="http://ndtv.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="NDTV" title="NDTV" data-l10n-args="{&quot;title&quot;:&quot;NDTV&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="N"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/ndtv@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">NDTV</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;NDTV&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer"><div class="top-site-inner"><a class="top-site-button" href="https://www.reddit.com/" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="Reddit" title="Reddit" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper" data-fallback="R"><div class="top-site-icon rich-icon" style="background-image:url(chrome://activity-stream/content/data/content/tippytop/images/reddit-com@2x.png)"></div></div></div><div class="title"><span class="title-label" dir="auto">Reddit</span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Reddit&quot;}" class="context-menu-button icon" tabindex="-1"></button></div><div class="topsite-impression-observer"></div></div></li><li class="top-site-outer add-button hide-for-narrow"><div class="top-site-inner"><a class="top-site-button" tabindex="-1" draggable="true" data-is-sponsored-link="false" aria-label="" data-l10n-id="newtab-topsites-add-shortcut-title" data-l10n-args="{&quot;title&quot;:&quot;&quot;}"><div class="tile" aria-hidden="true"><div class="icon-wrapper"><div class=""></div></div></div><div class="title"><span class="title-label" dir="auto" data-l10n-id="newtab-topsites-add-shortcut-label"><br/></span><span class="sponsored-label" data-l10n-id="newtab-topsite-sponsored"></span></div></a><div class="topsite-impression-observer"></div></div></li></ul></div><div class="edit-topsites-wrapper"></div></div></section></div></div></div></div><style data-styles="[[null]]"></style></div><section class="collapsible-section ds-layout" data-section-id="topstories"><div class="section-top-bar"><h2 class="section-title-container "><span class="section-title"><span data-l10n-id="newtab-section-header-stories"></span></span></h2></div><div><div class="discovery-stream ds-layout "><div class="ds-column ds-column-12"><div class="ds-column-grid"><div><div><div class="ds-card-grid     "><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.gqindia.com/content/6-exercises-for-bigger-arms-according-to-expert-trainers?utm_source=firefox-newtab-en-intl" title="6 Exercises for Bigger Arms, According to Expert Trainers" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">5 Healthy Food Items to Keep You Warm &amp; Boost Immunity This Winter Season</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Curly Tales</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">6 Exercises for Bigger Arms, According to Expert Trainers</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">GQ India</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;5 Healthy Food Items to Keep You Warm &amp; Boost Immunity This Winter Season&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.indiatoday.in/lifestyle/wellness/story/but-butt-breathing-is-science-backed-and-could-save-people-with-lung-failure-2812761-2025-11-04?utm_source=firefox-newtab-en-intl" title="Yes, ‘Butt Breathing’ Is Real, and Scientists Think It Could Save Lives" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;6 Exercises for Bigger Arms, According to Expert Trainers&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.indiatoday.in/business/personal-finance/story/gold-price-today-silver-market-outlook-wedding-season-safe-haven-demand-2814527-2025-11-06?utm_source=firefox-newtab-en-intl" title="Gold, Silver Prices Are Rising Again. Is There More Upside Left?" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Yes, ‘Butt Breathing’ Is Real, and Scientists Think It Could Save Lives</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">India Today</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Gold, Silver Prices Are Rising Again. Is There More Upside Left?</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">India Today</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Yes, ‘Butt Breathing’ Is Real, and Scientists Think It Could Save Lives&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.hindustantimes.com/htcity/cinema/how-bollywood-shaped-zohran-mamdani-s-win-nyc-s-first-filmy-mayor-just-lived-out-his-own-mira-nair-script-101762340037296.html?utm_source=firefox-newtab-en-intl" title="How Bollywood Shaped Zohran Mamdani’s Win; NYC’s First ‘Filmy’ Mayor Just Lived Out His Own Mira Nair Script" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Gold, Silver Prices Are Rising Again. Is There More Upside Left?&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.zdnet.com/article/want-better-chatgpt-responses-try-this-surprising-trick-researchers-say/?utm_source=firefox-newtab-en-intl" title="Want Better ChatGPT Responses? Try This Surprising Trick, Researchers Say" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">How Bollywood Shaped Zohran Mamdani’s Win; NYC’s First ‘Filmy’ Mayor Just Lived Out His Own Mira Nair Script</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Hindustan Times</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Want Better ChatGPT Responses? Try This Surprising Trick, Researchers Say</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">ZDNet</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;How Bollywood Shaped Zohran Mamdani’s Win; NYC’s First ‘Filmy’ Mayor Just Lived Out His Own Mira Nair Script&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://lithub.com/a-brief-history-of-american-socialism/?utm_source=firefox-newtab-en-intl" title="A Brief History of American Socialism" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Want Better ChatGPT Responses? Try This Surprising Trick, Researchers Say&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.businessinsider.com/best-lesser-known-european-travel-destinations-from-frequent-traveler?utm_source=firefox-newtab-en-intl" title="I&#x27;ve visited over 50 cities in Europe. London and Paris were great, but these 5 lesser-known locations are worth a visit." class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">A Brief History of American Socialism</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Literary Hub</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">I&#x27;ve visited over 50 cities in Europe. London and Paris were great, but these 5 lesser-known locations are worth a visit.</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Business Insider</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;A Brief History of American Socialism&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.aljazeera.com/sports/2025/11/5/cristiano-ronaldo-plans-to-retire-from-football-for-family-reasons?utm_source=firefox-newtab-en-intl" title="Cristiano Ronaldo Plans to Retire From Football for Family Reasons" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;I&#x27;ve visited over 50 cities in Europe. London and Paris were great, but these 5 lesser-known locations are worth a visit.&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.bbc.com/news/articles/cz7pygzn5gpo?utm_source=firefox-newtab-en-intl" title="Players Stranded, Hotels Unpaid - How a Kashmir Cricket League Turned Into a Fiasco" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Cristiano Ronaldo Plans to Retire From Football for Family Reasons</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Al Jazeera</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Players Stranded, Hotels Unpaid - How a Kashmir Cricket League Turned Into a Fiasco</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">BBC</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Cristiano Ronaldo Plans to Retire From Football for Family Reasons&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.indiatoday.in/business/personal-finance/story/global-economy-gold-demand-careedge-analysis-2813939-2025-11-05?utm_source=firefox-newtab-en-intl" title="Explained: What Rising Demand for Gold Says About Global Economy " class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Players Stranded, Hotels Unpaid - How a Kashmir Cricket League Turned Into a Fiasco&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.seriouseats.com/harissa-love-letter-11841726?utm_source=firefox-newtab-en-intl" title="I Grew Up With Harissa. Here’s How I Use It on Everything" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Explained: What Rising Demand for Gold Says About Global Economy </h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">India Today</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">I Grew Up With Harissa. Here’s How I Use It on Everything</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Serious Eats</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Explained: What Rising Demand for Gold Says About Global Economy &quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.fastcompany.com/91432517/why-you-should-be-less-professional-at-work?utm_source=firefox-newtab-en-intl" title="Why You Should Be Less Professional at Work" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;I Grew Up With Harissa. Here’s How I Use It on Everything&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://scroll.in/article/1088234/sridhar-vembus-vaccine-scepticism-is-a-dangerous-foray-into-anti-science-disinformation?utm_source=firefox-newtab-en-intl" title="Sridhar Vembu’s Vaccine Scepticism Is a Dangerous Foray Into Anti-Science Disinformation" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Why You Should Be Less Professional at Work</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Fast Company</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Sridhar Vembu’s Vaccine Scepticism Is a Dangerous Foray Into Anti-Science Disinformation</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Scroll</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Why You Should Be Less Professional at Work&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://time.com/7330795/ai-village-chatgpt-gemini-claude/?utm_source=firefox-newtab-en-intl" title="Inside the AI Village Where Top Chatbots Collaborate—and Compete" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Sridhar Vembu’s Vaccine Scepticism Is a Dangerous Foray Into Anti-Science Disinformation&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://lithub.com/want-to-understand-the-zohran-phenomenon-heres-a-mini-reading-list/?utm_source=firefox-newtab-en-intl" title="Want to understand the Zohran phenomenon? Here’s a mini reading list." class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Inside the AI Village Where Top Chatbots Collaborate—and Compete</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Time</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Want to understand the Zohran phenomenon? Here’s a mini reading list.</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Literary Hub</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Inside the AI Village Where Top Chatbots Collaborate—and Compete&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.realsimple.com/paint-color-dominating-homes-in-2026-11840918?utm_source=firefox-newtab-en-intl" title="Goodbye Gray—This Soothing Paint Color Will Dominate Interiors in 2026, Designers Say" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Want to understand the Zohran phenomenon? Here’s a mini reading list.&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.architecturaldigest.in/story/now-reopened-the-parsi-museum-in-mumbai-offers-a-compelling-insight-into-zoroastrianism/?utm_source=firefox-newtab-en-intl" title="Now Reopened, the Parsi Museum in Mumbai Offers a Compelling Insight Into Zoroastrianism" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Goodbye Gray—This Soothing Paint Color Will Dominate Interiors in 2026, Designers Say</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Real Simple</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Now Reopened, the Parsi Museum in Mumbai Offers a Compelling Insight Into Zoroastrianism</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">AD India</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Goodbye Gray—This Soothing Paint Color Will Dominate Interiors in 2026, Designers Say&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.indiatoday.in/lifestyle/wellness/story/how-to-make-your-chai-healthy-black-tea-anti-inflammatory-2813401-2025-11-04?utm_source=firefox-newtab-en-intl" title="How to Make Your Everyday Chai More Gut Friendly" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Now Reopened, the Parsi Museum in Mumbai Offers a Compelling Insight Into Zoroastrianism&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.timesnownews.com/health/sore-muscles-after-a-workout-heres-how-magnesium-can-help-you-recover-faster-article-153110515?utm_source=firefox-newtab-en-intl" title="Sore Muscles After a Workout? Here’s How Magnesium Can Help You Recover Faster" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">How to Make Your Everyday Chai More Gut Friendly</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">India Today</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Sore Muscles After a Workout? Here’s How Magnesium Can Help You Recover Faster</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Times Now</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;How to Make Your Everyday Chai More Gut Friendly&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.fastcompany.com/91431652/emotionally-intelligent-people-short-phrases-strengthen-relationships?utm_source=firefox-newtab-en-intl" title="Emotionally intelligent people use 5 short phrases to strengthen relationships" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Sore Muscles After a Workout? Here’s How Magnesium Can Help You Recover Faster&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.architecturaldigest.com/story/interior-design-trends?utm_source=firefox-newtab-en-intl" title="9 Interior Design Trends Still Chic for 2026—and the Ones on Their Way Out" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Emotionally intelligent people use 5 short phrases to strengthen relationships</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Fast Company</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">9 Interior Design Trends Still Chic for 2026—and the Ones on Their Way Out</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Architectural Digest</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Emotionally intelligent people use 5 short phrases to strengthen relationships&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://theprint.in/?p=2777816&amp;utm_source=firefox-newtab-en-intl" title="Centre Holds Off on Move to Downsize Panjab University Senate Amid Pushback" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;9 Interior Design Trends Still Chic for 2026—and the Ones on Their Way Out&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.huffingtonpost.co.uk/entry/most-gen-z-workers-think-the-career-ladder-is-dead_uk_690b25cee4b09953a605e3dc?utm_source=firefox-newtab-en-intl" title="Most Gen Z Workers Think The Career Ladder Is Dead" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Centre Holds Off on Move to Downsize Panjab University Senate Amid Pushback</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">The Print</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Most Gen Z Workers Think The Career Ladder Is Dead</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">HuffPost UK</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Centre Holds Off on Move to Downsize Panjab University Senate Amid Pushback&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.motherjones.com/politics/2025/11/elizabeth-kolbert-interview-climate-change-book/?utm_source=firefox-newtab-en-intl" title="How to Make People Want to Read About Climate Change" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Most Gen Z Workers Think The Career Ladder Is Dead&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.architecturaldigest.in/story/sculptor-mrinalini-mukherjees-extraordinary-career-gets-spotlight-at-londons-royal-academy-of-arts/?utm_source=firefox-newtab-en-intl" title="Sculptor Mrinalini Mukherjee’s Exceptional Career Gets the Spotlight at London’s Royal Academy of Arts" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">How to Make People Want to Read About Climate Change</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Mother Jones</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Sculptor Mrinalini Mukherjee’s Exceptional Career Gets the Spotlight at London’s Royal Academy of Arts</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">AD India</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;How to Make People Want to Read About Climate Change&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.bbc.com/news/articles/cew48pywl1ro?utm_source=firefox-newtab-en-intl" title="In Mamdani’s New York Win, India’s Nehru Finds an Echo" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Sculptor Mrinalini Mukherjee’s Exceptional Career Gets the Spotlight at London’s Royal Academy of Arts&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://time.com/7330991/polite-phrases-etiquette-modern-manners/?utm_source=firefox-newtab-en-intl" title="7 Polite Phrases That Are Still Worth Saying" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">In Mamdani’s New York Win, India’s Nehru Finds an Echo</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">BBC</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">7 Polite Phrases That Are Still Worth Saying</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Time</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;In Mamdani’s New York Win, India’s Nehru Finds an Echo&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.nytimes.com/2025/11/05/magazine/ai-tech-industry-sora-science-fiction.html?utm_source=firefox-newtab-en-intl" title="Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies?" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;7 Polite Phrases That Are Still Worth Saying&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://bigthink.com/thinking/learn-with-metacognition/?utm_source=firefox-newtab-en-intl" title="Want to be a better learner? Start by noticing how you think." class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies?</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">The New York Times</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Want to be a better learner? Start by noticing how you think.</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Big Think</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies?&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.architecturaldigest.in/story/is-kiran-nadar-the-single-most-important-indian-collector-of-art-in-our-time/?utm_source=firefox-newtab-en-intl" title="Is Kiran Nadar the Single Most Important Indian Collector of Art in Our Time?" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Want to be a better learner? Start by noticing how you think.&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.telegraphindia.com/sports/football/fifa-to-present-first-ever-peace-prize-at-2026-world-cup-draw-in-washington-dc/cid/2131420?utm_source=firefox-newtab-en-intl" title="Fifa to Present First-Ever Peace Prize at 2026 World Cup Draw in Washington DC" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Is Kiran Nadar the Single Most Important Indian Collector of Art in Our Time?</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">AD India</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Fifa to Present First-Ever Peace Prize at 2026 World Cup Draw in Washington DC</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Telegraph India</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Is Kiran Nadar the Single Most Important Indian Collector of Art in Our Time?&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://thewire.in/politics/in-young-bihar-race-for-elusive-government-jobs-spotlight-unemployment-crisis?utm_source=firefox-newtab-en-intl" title="In ‘Young’ Bihar, Race for Elusive Government Jobs Spotlight Unemployment Crisis" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Fifa to Present First-Ever Peace Prize at 2026 World Cup Draw in Washington DC&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.scientificamerican.com/podcast/episode/the-psychology-behind-standing-up-and-saying-no/?utm_source=firefox-newtab-en-intl" title="Why We’re Wired to Obey—And How to Reclaim Your Voice" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">In ‘Young’ Bihar, Race for Elusive Government Jobs Spotlight Unemployment Crisis</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">The Wire</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Why We’re Wired to Obey—And How to Reclaim Your Voice</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Scientific American</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;In ‘Young’ Bihar, Race for Elusive Government Jobs Spotlight Unemployment Crisis&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.bbc.com/news/articles/cq834vle4llo?utm_source=firefox-newtab-en-intl" title="Why a popular Hindu temple in India is mired in gold theft row" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Why We’re Wired to Obey—And How to Reclaim Your Voice&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://indianexpress.com/article/explained/explained-economics/explainspeaking-bihar-elections-growth-comparison-india-10349255/?utm_source=firefox-newtab-en-intl" title="ExplainSpeaking: Has Bihar’s Growth Reduced the Gap With the Rest of India?" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Why a popular Hindu temple in India is mired in gold theft row</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">BBC</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">ExplainSpeaking: Has Bihar’s Growth Reduced the Gap With the Rest of India?</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">The Indian Express</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Why a popular Hindu temple in India is mired in gold theft row&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.newyorker.com/magazine/2025/11/10/who-my-child-was-and-would-be?utm_source=firefox-newtab-en-intl" title="Who My Child Was and Would Be" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;ExplainSpeaking: Has Bihar’s Growth Reduced the Gap With the Rest of India?&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.cntraveller.com/article/best-places-to-go-asia-2026?utm_source=firefox-newtab-en-intl" title="The Best Places to Go in Asia in 2026" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Who My Child Was and Would Be</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">The New Yorker</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">The Best Places to Go in Asia in 2026</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Condé Nast Traveller</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Who My Child Was and Would Be&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.news18.com/lifestyle/is-astrology-the-new-travel-agent-why-people-are-planning-trips-by-birth-chart-tyd-ws-el-9681555.html?utm_source=firefox-newtab-en-intl" title="Is Astrology the New Travel Agent? Why People Are Planning Trips by Birth Chart" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;The Best Places to Go in Asia in 2026&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.salon.com/2025/11/05/little-amelie-arco-truthful-animation-for-kids/?utm_source=firefox-newtab-en-intl" title="It’s a Rough World Out There. Kids Deserve to Know" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Is Astrology the New Travel Agent? Why People Are Planning Trips by Birth Chart</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">News18</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">It’s a Rough World Out There. Kids Deserve to Know</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Salon</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Is Astrology the New Travel Agent? Why People Are Planning Trips by Birth Chart&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.ndtvprofit.com/opinion/student-loans-smart-savvy-sorted-gen-z-approach-in-navigating-education-financing-repayment-income?utm_source=firefox-newtab-en-intl" title="Smart, Savvy, Sorted: Gen Z’s Approach in Navigating Education Financing" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;It’s a Rough World Out There. Kids Deserve to Know&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://hbr.org/2025/11/the-3-types-of-customers-who-buy-smart-products-and-how-to-market-to-them?utm_source=firefox-newtab-en-intl" title="The 3 Types of Customers Who Buy Smart Products—and How to Market to Them" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Smart, Savvy, Sorted: Gen Z’s Approach in Navigating Education Financing</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">NDTV</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">The 3 Types of Customers Who Buy Smart Products—and How to Market to Them</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Harvard Business Review</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Smart, Savvy, Sorted: Gen Z’s Approach in Navigating Education Financing&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.elle.com/beauty/hair/a69076436/matcha-hair-loss-explained-2025/?utm_source=firefox-newtab-en-intl" title="Does Drinking Matcha Really Cause Hair Loss? Experts Weigh In" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;The 3 Types of Customers Who Buy Smart Products—and How to Market to Them&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.cnbc.com/2025/11/06/cnbcs-inside-india-newsletter-indias-back-offices-are-evolving-into-leadership-hubs-for-global-companies.html?utm_source=firefox-newtab-en-intl" title="CNBC’s Inside India Newsletter: India’s ‘Back Offices’ Are Evolving Into Leadership Hubs for Global Companies" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Does Drinking Matcha Really Cause Hair Loss? Experts Weigh In</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Elle</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">CNBC’s Inside India Newsletter: India’s ‘Back Offices’ Are Evolving Into Leadership Hubs for Global Companies</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">CNBC</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Does Drinking Matcha Really Cause Hair Loss? Experts Weigh In&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://theconversation.com/is-it-healthier-to-only-eat-until-youre-80-full-the-japanese-philosophy-of-hara-hachi-bu-268008?utm_source=firefox-newtab-en-intl" title="Is It Healthier to Only Eat Until You’re 80% Full? The Japanese Philosophy of Hara Hachi Bu" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;CNBC’s Inside India Newsletter: India’s ‘Back Offices’ Are Evolving Into Leadership Hubs for Global Companies&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.bbc.com/news/articles/cx2yl78kw7go?utm_source=firefox-newtab-en-intl" title="Modi’s Party Faces Test in Crucial Indian State Election" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Is It Healthier to Only Eat Until You’re 80% Full? The Japanese Philosophy of Hara Hachi Bu</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">The Conversation</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">Modi’s Party Faces Test in Crucial Indian State Election</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">BBC</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Is It Healthier to Only Eat Until You’re 80% Full? The Japanese Philosophy of Hara Hachi Bu&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.vogue.com/article/equestrian-retreats-horse-healing?utm_source=firefox-newtab-en-intl" title="The Women-Led Equestrian Retreats Redefining How We Heal With Horses" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;Modi’s Party Faces Test in Crucial Indian State Election&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article><article class="ds-card   sections-card-ui    ds-card-title-lines-3 ds-card-desc-lines-3    refined-cards"><a href="https://www.indiatoday.in/education-today/featurephilia/story/arts-stream-rise-india-careers-psychology-media-law-design-2814582-2025-11-06?utm_source=firefox-newtab-en-intl" title="More Students Pick Arts, but India’s Jobs Still Belong to Science" class="ds-card-link" data-is-sponsored-link="false"><div class="img-wrapper"><picture class="ds-image
        img 
       
       
-     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">The Women-Led Equestrian Retreats Redefining How We Heal With Horses</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">Vogue</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
+     loaded"><div class="broken-image"></div></picture></div><div class="impression-observer"></div><div class="meta"><div class="info-wrap"><h3 class="title clamp">More Students Pick Arts, but India’s Jobs Still Belong to Science</h3></div><div class="sections-card-footer"><div class="source-wrapper"><p class="source clamp">India Today</p></div><div class="card-stp-thumbs-buttons-wrapper"><div class="card-stp-thumbs-buttons"><moz-button iconsrc="chrome://global/skin/icons/thumbs-up-20.svg" onClick="function() {
     [native code]
 }" className="card-stp-thumbs-button icon icon-thumbs-up refined-layout null" data-l10n-id="newtab-pocket-thumbs-up-tooltip" type="icon ghost"></moz-button><moz-button iconsrc="chrome://global/skin/icons/thumbs-down-20.svg" onClick="function() {
     [native code]
-}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;The Women-Led Equestrian Retreats Redefining How We Heal With Horses&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article></div></div></div><div><div class="ds-navigation ds-navigation-left-align "><ul></ul><a href="https://www.mozilla.org/privacy/firefox/#recommend-relevant-content" class="ds-navigation-privacy" data-is-sponsored-link="false"><span data-l10n-id="newtab-section-menu-privacy-notice"></span></a></div></div></div></div><style data-styles="[[null,{&quot;.ds-navigation&quot;:&quot;margin-block-start: -10px;&quot;}]]"></style></div></div></section><div class="discovery-stream ds-layout "><div class="ds-column ds-column-12"><div class="ds-column-grid"><div></div></div></div><style data-styles="[[null]]"></style></div></div></main><aside></aside></div></div>
+}" className="card-stp-thumbs-button icon icon-thumbs-down null" data-l10n-id="newtab-pocket-thumbs-down-tooltip" type="icon ghost"></moz-button></div></div></div></div></a><div class="card-stp-button-hover-background"><div class="card-stp-button-position-wrapper"><div class="context-menu-position-container"><button aria-haspopup="true" data-l10n-id="newtab-menu-content-tooltip" data-l10n-args="{&quot;title&quot;:&quot;More Students Pick Arts, but India’s Jobs Still Belong to Science&quot;}" class="context-menu-button icon" tabindex="0"></button></div></div></div></article></div></div></div><div><div class="ds-navigation ds-navigation-left-align "><ul></ul><a href="https://www.mozilla.org/privacy/firefox/#recommend-relevant-content" class="ds-navigation-privacy" data-is-sponsored-link="false"><span data-l10n-id="newtab-section-menu-privacy-notice"></span></a></div></div></div></div><style data-styles="[[null,{&quot;.ds-navigation&quot;:&quot;margin-block-start: -10px;&quot;}]]"></style></div></div></section><div class="discovery-stream ds-layout "><div class="ds-column ds-column-12"><div class="ds-column-grid"><div></div></div></div><style data-styles="[[null]]"></style></div></div></main><aside></aside></div></div>
     </div>
     <div id="footer-asrouter-container" role="presentation"></div>
     <script src="about:home?jscache"></script>
@@ -320,9 +322,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 2100,
+				"frecency": 2998,
 				"guid": "RWMF7PbMBUz6",
-				"lastVisitDate": 1762420658683,
+				"lastVisitDate": 1762421344809,
 				"title": "kavya07k/kavya2025",
 				"url": "https://github.com/kavya07k/kavya2025",
 				"type": "history",
@@ -339,7 +341,7 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 195,
+				"frecency": 190,
 				"guid": "RhPyK7cQFyoL",
 				"lastVisitDate": 1762351111364,
 				"title": "Welcome",
@@ -835,7 +837,7 @@ window.__STARTUP_STATE__ = {
 		"waitingForSpoc": true
 	},
 	"Personalization": {
-		"lastUpdated": 1762351599862,
+		"lastUpdated": 1762439234296,
 		"initialized": true
 	},
 	"InferredPersonalization": {
@@ -976,543 +978,543 @@ window.__STARTUP_STATE__ = {
 		"feeds": {
 			"data": {
 				"https://merino.services.mozilla.com/api/v1/curated-recommendations": {
-					"lastUpdated": 1762419414569,
-					"personalized": false,
+					"lastUpdated": 1762506310314,
+					"personalized": true,
 					"data": {
 						"settings": {},
 						"sections": [],
 						"interestPicker": {},
 						"recommendations": [
 							{
-								"id": "b8619744-fe9e-434a-8093-d959b6914ae5",
-								"scheduled_corpus_item_id": "93cc6983-b953-491e-a91e-af9d9ba7bd0f",
-								"corpus_item_id": "b8619744-fe9e-434a-8093-d959b6914ae5",
+								"id": "373b58fe-9072-43ff-93ca-db8c1711e7be",
+								"scheduled_corpus_item_id": "3b0c04d6-98ec-44e9-a5c6-3bc0c417531f",
+								"corpus_item_id": "373b58fe-9072-43ff-93ca-db8c1711e7be",
 								"features": {
-									"t_food": 1
+									"t_health": 1
 								},
-								"excerpt": "From ginger to sweet potatoes, these are the five healthy food items to add to your diet this winter to stay warm and energised.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/a5bd5a9b694548ad62413a4a2d8cfa4740c9baa6a6659acfca1f9f39289df3d2_51514.png",
+								"excerpt": "We spoke with experts to craft a research-backed blueprint to build sleeve-splitting biceps and triceps",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/cb03c351a69acdeff9933a6a186a4739a3894011b4eecef241813a76319b009d_7406.oct",
 								"isTimeSensitive": false,
-								"publisher": "Curly Tales",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/e65a96e5-ecaf-4912-b9ba-4ccbef0f5571.jpeg",
+								"publisher": "GQ India",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/e1d976fc-71ab-474e-b3d3-acc40c62a5dc.jpeg",
 								"received_rank": 0,
-								"recommended_at": 1762419414216,
-								"title": "5 Healthy Food Items to Keep You Warm & Boost Immunity This Winter Season",
-								"topic": "food",
-								"url": "https://curlytales.com/india/food/healthy-food-items-to-keep-you-warm-boost-immunity-this-winter-season/?utm_source=firefox-newtab-en-intl",
+								"recommended_at": 1762506309991,
+								"title": "6 Exercises for Bigger Arms, According to Expert Trainers",
+								"topic": "health",
+								"url": "https://www.gqindia.com/content/6-exercises-for-bigger-arms-according-to-expert-trainers?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "1bdf8a62-bb2d-4d63-879d-94aca9d06016",
-								"scheduled_corpus_item_id": "8a1b0257-8d34-4e34-a8ec-b5b4227d07f0",
-								"corpus_item_id": "1bdf8a62-bb2d-4d63-879d-94aca9d06016",
+								"id": "e79ac432-82c6-4cf4-8c6b-98595d473798",
+								"scheduled_corpus_item_id": "c3345c33-6227-4f72-b642-d0a148dea70f",
+								"corpus_item_id": "e79ac432-82c6-4cf4-8c6b-98595d473798",
 								"features": {
-									"t_society": 1
+									"t_finance": 1
 								},
-								"excerpt": "Who knew that breathing from your buttcheck might help with your breath work?  No, this is no bizarre yoga pose but something that Science backs too and could become a groundbreaking treatment too.",
+								"excerpt": "Gold and silver prices climbed on Thursday after a brief dip to one-week lows, supported by safe-haven buying and fresh demand ahead of the peak wedding season. On the Multi Commodity Exchange (MCX), December gold futures hovered around Rs 1.",
 								"icon_src": null,
 								"isTimeSensitive": false,
 								"publisher": "India Today",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/6c71cdea-658b-423b-8d1d-6df5d782a59a.jpeg",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/2c07d466-6567-4fca-888a-557d24d2ee8f.jpeg",
 								"received_rank": 1,
-								"recommended_at": 1762419414216,
-								"title": "Yes, ‘Butt Breathing’ Is Real, and Scientists Think It Could Save Lives",
-								"topic": "society",
-								"url": "https://www.indiatoday.in/lifestyle/wellness/story/but-butt-breathing-is-science-backed-and-could-save-people-with-lung-failure-2812761-2025-11-04?utm_source=firefox-newtab-en-intl",
+								"recommended_at": 1762506309991,
+								"title": "Gold, Silver Prices Are Rising Again. Is There More Upside Left?",
+								"topic": "finance",
+								"url": "https://www.indiatoday.in/business/personal-finance/story/gold-price-today-silver-market-outlook-wedding-season-safe-haven-demand-2814527-2025-11-06?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "c1090b8b-2b1d-4b05-b903-059ee4eafe76",
-								"scheduled_corpus_item_id": "ee70c59e-98ad-4791-afd1-d68535954fbc",
-								"corpus_item_id": "c1090b8b-2b1d-4b05-b903-059ee4eafe76",
+								"id": "e2cf8f43-792f-42c4-ab21-5fb27bca23d1",
+								"scheduled_corpus_item_id": "ad762c3d-6579-41b0-a0e9-b0d6ff6136da",
+								"corpus_item_id": "e2cf8f43-792f-42c4-ab21-5fb27bca23d1",
 								"features": {
-									"t_arts": 1
+									"t_tech": 1
 								},
-								"excerpt": "New York City's first South Asian mayor, Zohran Mamdani, is also Bollywood's first political heir abroad. Here's how cinema helped him win",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/690767bc0e9db789c06c275822df37489a04ba0d1ed63640c4d0acd0fdab9775_1931.ico",
+								"excerpt": "A study by researchers from Penn State University found that the tone of your prompt may be just as important as the content of your prompt.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/74c51bd706f4bc5729692349d5c9983f9b138a42c587db6444df7328cc5a6d60_5691.png",
 								"isTimeSensitive": false,
-								"publisher": "Hindustan Times",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/5c40c07e-cca9-4a74-903f-31063b3fb34f.jpeg",
+								"publisher": "ZDNet",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/6088dd94-8870-4a72-9b53-d8f3b794b7f0.jpeg",
 								"received_rank": 2,
-								"recommended_at": 1762419414216,
-								"title": "How Bollywood Shaped Zohran Mamdani’s Win; NYC’s First ‘Filmy’ Mayor Just Lived Out His Own Mira Nair Script",
-								"topic": "arts",
-								"url": "https://www.hindustantimes.com/htcity/cinema/how-bollywood-shaped-zohran-mamdani-s-win-nyc-s-first-filmy-mayor-just-lived-out-his-own-mira-nair-script-101762340037296.html?utm_source=firefox-newtab-en-intl",
+								"recommended_at": 1762506309991,
+								"title": "Want Better ChatGPT Responses? Try This Surprising Trick, Researchers Say",
+								"topic": "tech",
+								"url": "https://www.zdnet.com/article/want-better-chatgpt-responses-try-this-surprising-trick-researchers-say/?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "6dbdf4ab-5e4f-4a81-91b0-2e37f021f53c",
-								"scheduled_corpus_item_id": "c37601ac-3f02-4522-923d-82da2d0fed5c",
-								"corpus_item_id": "6dbdf4ab-5e4f-4a81-91b0-2e37f021f53c",
+								"id": "cf84847b-73b8-4649-ab33-512a92d39895",
+								"scheduled_corpus_item_id": "4d16133b-e6f8-4227-8b50-39330372754e",
+								"corpus_item_id": "cf84847b-73b8-4649-ab33-512a92d39895",
 								"features": {
-									"t_education": 1
+									"t_travel": 1
 								},
-								"excerpt": "“America will never be a socialist country,” declared Donald Trump in his 2019 State of the Union Address, given to a joint session of Congress. The president clearly believed that fear of such a r…",
-								"icon_src": null,
+								"excerpt": "After traveling to 50 cities in Europe, I've come across some beautiful hidden gems. From Bath to Bruges, these are the cities worth visiting.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/7addc2983aebdfbdf988df3809623ad47dcf7d3605aefe0c4158521ffbd4e56e_7337.png",
 								"isTimeSensitive": false,
-								"publisher": "Literary Hub",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/059dcac2-5b6e-4c1c-9b18-2155be19d420.png",
+								"publisher": "Business Insider",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/fe56a0fa-05a7-4f12-bd09-f83d4d68c428.jpeg",
 								"received_rank": 3,
-								"recommended_at": 1762419414216,
-								"title": "A Brief History of American Socialism",
-								"topic": "education",
-								"url": "https://lithub.com/a-brief-history-of-american-socialism/?utm_source=firefox-newtab-en-intl",
+								"recommended_at": 1762506309991,
+								"title": "I've visited over 50 cities in Europe. London and Paris were great, but these 5 lesser-known locations are worth a visit.",
+								"topic": "travel",
+								"url": "https://www.businessinsider.com/best-lesser-known-european-travel-destinations-from-frequent-traveler?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "c53607d9-1a46-4524-953b-9144537318bb",
-								"scheduled_corpus_item_id": "065fe560-0d10-4ad7-8714-decb5f6c1adb",
-								"corpus_item_id": "c53607d9-1a46-4524-953b-9144537318bb",
+								"id": "9470a311-67ca-4be8-9c97-d831657a16d1",
+								"scheduled_corpus_item_id": "aea5874a-ff01-4f54-9e0e-7ab684076ebd",
+								"corpus_item_id": "9470a311-67ca-4be8-9c97-d831657a16d1",
 								"features": {
 									"t_sports": 1
 								},
-								"excerpt": "Cristiano Ronaldo says he will retire “soon”, admitting it will be difficult to bring his glittering career to an end as the 40-year-old has been planning his post-football life for some time. The Al Nassr striker is the all-time leading goalscorer with 952 goals for club and country combined.",
-								"icon_src": null,
+								"excerpt": "The tournament which brought international stars to the region has left local cricketers disappointed. ",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/388231ac048528715ffc2aebad84b58c19231d92156179d21c94d0b98d4f1d9b_751.svg",
 								"isTimeSensitive": false,
-								"publisher": "Al Jazeera",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/134b42bb-a4b8-4fdf-8f3d-05b276f7e52e.jpeg",
+								"publisher": "BBC",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/c2e2d12b-df7e-46ca-9048-e786e8201677.jpeg",
 								"received_rank": 4,
-								"recommended_at": 1762419414216,
-								"title": "Cristiano Ronaldo Plans to Retire From Football for Family Reasons",
+								"recommended_at": 1762506309991,
+								"title": "Players Stranded, Hotels Unpaid - How a Kashmir Cricket League Turned Into a Fiasco",
 								"topic": "sports",
-								"url": "https://www.aljazeera.com/sports/2025/11/5/cristiano-ronaldo-plans-to-retire-from-football-for-family-reasons?utm_source=firefox-newtab-en-intl",
+								"url": "https://www.bbc.com/news/articles/cz7pygzn5gpo?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "82249d9e-1e80-4461-95b7-391d1429877e",
-								"scheduled_corpus_item_id": "5c1ba579-6ef7-4f98-a40e-2b8c1122937b",
-								"corpus_item_id": "82249d9e-1e80-4461-95b7-391d1429877e",
-								"features": {
-									"t_finance": 1
-								},
-								"excerpt": "As inflation worries persist and geopolitical risks grow, is the world turning to gold because economies are strengthening or because everyone is preparing for tougher financial times ahead?",
-								"icon_src": null,
-								"isTimeSensitive": false,
-								"publisher": "India Today",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/3c0d9d35-cd2f-4397-8acc-48465d90ec10.jpeg",
-								"received_rank": 5,
-								"recommended_at": 1762419414216,
-								"title": "Explained: What Rising Demand for Gold Says About Global Economy ",
-								"topic": "finance",
-								"url": "https://www.indiatoday.in/business/personal-finance/story/global-economy-gold-demand-careedge-analysis-2813939-2025-11-05?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "f944aa80-9e95-4f09-bbf6-b29c7c3825f4",
-								"scheduled_corpus_item_id": "0228d0ab-74e9-4eed-9a6b-b2c788c16d65",
-								"corpus_item_id": "f944aa80-9e95-4f09-bbf6-b29c7c3825f4",
-								"features": {
-									"t_career": 1
-								},
-								"excerpt": "Nobody sitting with perfect posture in a room of button-down shirts, looking at a slide that says “leverage strategic capabilities,” is doing their best work. They’re just not.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/1564ab97026d69c012761382e091d1ef012bc6ebf5bdd34308bbe30b42a91fc1_169662.ico",
-								"isTimeSensitive": false,
-								"publisher": "Fast Company",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/5273036f-27eb-4771-9dfc-c2e25d32f02e.webp",
-								"received_rank": 6,
-								"recommended_at": 1762419414216,
-								"title": "Why You Should Be Less Professional at Work",
-								"topic": "career",
-								"url": "https://www.fastcompany.com/91432517/why-you-should-be-less-professional-at-work?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "11d92c6f-8b38-467f-895b-4545c3d3e7bd",
-								"scheduled_corpus_item_id": "b5d6bd6e-50cf-485e-addf-168f19bc5702",
-								"corpus_item_id": "11d92c6f-8b38-467f-895b-4545c3d3e7bd",
-								"features": {
-									"t_tech": 1
-								},
-								"excerpt": "The AI Village—an experiment run by nonprofit Sage—set up models from OpenAI, Anthropic, Google, and xAI to collaborate and compete every day.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/6bdc80aaa6508bbb127c62edd064b3228c6d36877042236992650de6e35558d6_2342.png",
-								"isTimeSensitive": false,
-								"publisher": "Time",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/910ec690-f97c-4085-aab7-b7b7a4866c1e.png",
-								"received_rank": 7,
-								"recommended_at": 1762419414216,
-								"title": "Inside the AI Village Where Top Chatbots Collaborate—and Compete",
-								"topic": "tech",
-								"url": "https://time.com/7330795/ai-village-chatgpt-gemini-claude/?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "aff31f15-e8f6-4126-bfdc-4781ab00f5ef",
-								"scheduled_corpus_item_id": "139e9c0f-c0ae-4d38-9675-cf6e7e51d4e0",
-								"corpus_item_id": "aff31f15-e8f6-4126-bfdc-4781ab00f5ef",
-								"features": {
-									"t_home": 1
-								},
-								"excerpt": "Find out which paint color is topping designers’ lists for 2026—and why it’s replacing a once-beloved neutral in homes everywhere.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/349614dd7779a80fded606c4efee36347a796242a29b697ec8581119f37e929a_1961.oct",
-								"isTimeSensitive": false,
-								"publisher": "Real Simple",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/cbd17363-8eb4-40df-adfa-fab6302c01b8.jpeg",
-								"received_rank": 8,
-								"recommended_at": 1762419414216,
-								"title": "Goodbye Gray—This Soothing Paint Color Will Dominate Interiors in 2026, Designers Say",
-								"topic": "home",
-								"url": "https://www.realsimple.com/paint-color-dominating-homes-in-2026-11840918?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "1b12ed04-118d-4bde-97f4-8f70fda52325",
-								"scheduled_corpus_item_id": "ebe11569-da05-4564-bb72-e00ed164d8cb",
-								"corpus_item_id": "1b12ed04-118d-4bde-97f4-8f70fda52325",
+								"id": "ec193d6c-089b-4f4f-9f93-3aa4afaa65ff",
+								"scheduled_corpus_item_id": "5f851d0c-18f2-41ac-8281-389ac355fe4e",
+								"corpus_item_id": "ec193d6c-089b-4f4f-9f93-3aa4afaa65ff",
 								"features": {
 									"t_food": 1
 								},
-								"excerpt": "A morning ritual to wake up the body or an evening cup for refreshing conversations, chai has been central to our lives. And in this wellness first world, expert spills the tea on how to brew a healthier sip.  ",
-								"icon_src": null,
+								"excerpt": "Discover how to use harissa, a classic North African chile paste, in simple dishes like grilled chicken, yogurt sauces, stews, and more.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/5b49851a099cf785dd7907af5b596321f6b6ac7ea9c4517e93b31b0737d4a322_686.oct",
 								"isTimeSensitive": false,
-								"publisher": "India Today",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/0b16dbde-a8ee-496f-b87b-31a98ee01986.jpeg",
-								"received_rank": 9,
-								"recommended_at": 1762419414216,
-								"title": "How to Make Your Everyday Chai More Gut Friendly",
+								"publisher": "Serious Eats",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/c747b4b4-d880-4a04-995e-820296213601.jpeg",
+								"received_rank": 5,
+								"recommended_at": 1762506309991,
+								"title": "I Grew Up With Harissa. Here’s How I Use It on Everything",
 								"topic": "food",
-								"url": "https://www.indiatoday.in/lifestyle/wellness/story/how-to-make-your-chai-healthy-black-tea-anti-inflammatory-2813401-2025-11-04?utm_source=firefox-newtab-en-intl",
+								"url": "https://www.seriouseats.com/harissa-love-letter-11841726?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "e5d492d2-30f2-4078-aa56-9845fcd7b9c0",
-								"scheduled_corpus_item_id": "468e78eb-523e-4cc5-91ee-41ba06e6a112",
-								"corpus_item_id": "e5d492d2-30f2-4078-aa56-9845fcd7b9c0",
+								"id": "652e262e-ea9a-419c-acdb-3d6c460f4d37",
+								"scheduled_corpus_item_id": "1d4fce78-9539-4582-a6e7-90fecb0c0555",
+								"corpus_item_id": "652e262e-ea9a-419c-acdb-3d6c460f4d37",
 								"features": {
-									"t_health": 1
+									"t_education-science": 1
 								},
-								"excerpt": "Use these five phrases to restore balance to your emotions, so you can think more clearly.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/1564ab97026d69c012761382e091d1ef012bc6ebf5bdd34308bbe30b42a91fc1_169662.ico",
-								"isTimeSensitive": false,
-								"publisher": "Fast Company",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/88f71f6f-6a35-41a1-a37a-e5c60abc801f.webp",
-								"received_rank": 10,
-								"recommended_at": 1762419414216,
-								"title": "Emotionally intelligent people use 5 short phrases to strengthen relationships",
-								"topic": "health",
-								"url": "https://www.fastcompany.com/91431652/emotionally-intelligent-people-short-phrases-strengthen-relationships?utm_source=firefox-newtab-en-intl",
+								"excerpt": "By endorsing blatantly unscientific claims in the face of overwhelming evidence, the tech founder is eroding painstakingly built public trust.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/c60d4321c5330939855ea75b23282edd997410b439c0284b713fdd490f1336a5_1326.png",
+								"isTimeSensitive": true,
+								"publisher": "Scroll",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/bb360bfa-a550-43e2-abfc-49a9c4ff2a51.jpeg",
+								"received_rank": 6,
+								"recommended_at": 1762506309991,
+								"title": "Sridhar Vembu’s Vaccine Scepticism Is a Dangerous Foray Into Anti-Science Disinformation",
+								"topic": "education-science",
+								"url": "https://scroll.in/article/1088234/sridhar-vembus-vaccine-scepticism-is-a-dangerous-foray-into-anti-science-disinformation?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "955f40da-28ca-454a-af26-1dcdb85f5e86",
-								"scheduled_corpus_item_id": "61896146-21f7-499c-b696-5fd23ae2a03e",
-								"corpus_item_id": "955f40da-28ca-454a-af26-1dcdb85f5e86",
+								"id": "3962cef8-0818-460b-9203-50e3b653065d",
+								"scheduled_corpus_item_id": "268938da-e1be-4672-ae6a-6cf8d81ee5ac",
+								"corpus_item_id": "3962cef8-0818-460b-9203-50e3b653065d",
 								"features": {
 									"t_education": 1
 								},
-								"excerpt": "According to senior government officials, decision taken at a meeting between Panjab University student representatives and Union Ministry of Education officials held Wednesday.",
+								"excerpt": "Have you thanked a bodega cat today? Remember, they won’t be getting raises under the new administration. For 51% of New York City bipeds, however, it’s a pretty great week. Zohran Mamd…",
 								"icon_src": null,
-								"isTimeSensitive": true,
-								"publisher": "The Print",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/3fdf28c5-e139-4ce3-893d-1572aaab3971.jpeg",
-								"received_rank": 11,
-								"recommended_at": 1762419414216,
-								"title": "Centre Holds Off on Move to Downsize Panjab University Senate Amid Pushback",
+								"isTimeSensitive": false,
+								"publisher": "Literary Hub",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/2308e961-b02b-40dd-aa01-d978d095f5cf.png",
+								"received_rank": 7,
+								"recommended_at": 1762506309991,
+								"title": "Want to understand the Zohran phenomenon? Here’s a mini reading list.",
 								"topic": "education",
-								"url": "https://theprint.in/?p=2777816&utm_source=firefox-newtab-en-intl",
+								"url": "https://lithub.com/want-to-understand-the-zohran-phenomenon-heres-a-mini-reading-list/?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "38776f98-a5cf-4f9a-a84a-efd056875bc5",
-								"scheduled_corpus_item_id": "b8c3e359-69e3-48ab-85e3-067b1a3e94c8",
-								"corpus_item_id": "38776f98-a5cf-4f9a-a84a-efd056875bc5",
+								"id": "dab30e2d-6cd3-42d8-a716-3d6623514af9",
+								"scheduled_corpus_item_id": "0a5e763f-deeb-4ebc-ab5b-58a0f58b309d",
+								"corpus_item_id": "dab30e2d-6cd3-42d8-a716-3d6623514af9",
 								"features": {
-									"t_education-science": 1
+									"t_arts": 1
 								},
-								"excerpt": "Pulitzer winner Elizabeth Kolbert’s new book is a master class in writing about the natural world.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/a0a897548094fe2f01f6bdc89500fb6154cdb3ed7885edcf1ee671689a209720_3202.webp",
-								"isTimeSensitive": false,
-								"publisher": "Mother Jones",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/e61946be-0011-443a-a8c5-7583578ec84d.jpeg",
-								"received_rank": 12,
-								"recommended_at": 1762419414216,
-								"title": "How to Make People Want to Read About Climate Change",
-								"topic": "education-science",
-								"url": "https://www.motherjones.com/politics/2025/11/elizabeth-kolbert-interview-climate-change-book/?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "bfa82114-afed-46d3-8875-cb177309976b",
-								"scheduled_corpus_item_id": "14a1421c-7e3a-408e-af6d-893f1d62d3e8",
-								"corpus_item_id": "bfa82114-afed-46d3-8875-cb177309976b",
-								"features": {
-									"t_government": 1
-								},
-								"excerpt": "At his New York victory rally, Zohran Mamdani gave a nod to Nehru’s iconic speech marking India's independence.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/388231ac048528715ffc2aebad84b58c19231d92156179d21c94d0b98d4f1d9b_751.svg",
-								"isTimeSensitive": true,
-								"publisher": "BBC",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/51d38572-8ba1-465a-b001-7f2d36f2531f.jpeg",
-								"received_rank": 13,
-								"recommended_at": 1762419414216,
-								"title": "In Mamdani’s New York Win, India’s Nehru Finds an Echo",
-								"topic": "government",
-								"url": "https://www.bbc.com/news/articles/cew48pywl1ro?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "372b6fac-a35c-4031-a788-12efeedafb68",
-								"scheduled_corpus_item_id": "4d0b595e-6fdd-44f8-9a66-4602c1b31b94",
-								"corpus_item_id": "372b6fac-a35c-4031-a788-12efeedafb68",
-								"features": {
-									"t_tech": 1
-								},
-								"excerpt": "The industry keeps echoing ideas from bleak satires and cyberpunk stories as if they were exciting possibilities, not grim warnings.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/68d17fe3b579e967803b3bfa086047106eb7c67ba2d64149f606457e2df5437c_3148.png",
-								"isTimeSensitive": false,
-								"publisher": "The New York Times",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/3264fffa-85c3-43e3-bdd6-809d7c5291c3.jpeg",
-								"received_rank": 14,
-								"recommended_at": 1762419414216,
-								"title": "Why Does So Much New Technology Feel Inspired by Dystopian Sci-Fi Movies?",
-								"topic": "tech",
-								"url": "https://www.nytimes.com/2025/11/05/magazine/ai-tech-industry-sora-science-fiction.html?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "df62a318-f209-471d-bfcb-6e02fadafbe7",
-								"scheduled_corpus_item_id": "160f2aff-4a20-49da-b5aa-a9f0a40d2606",
-								"corpus_item_id": "df62a318-f209-471d-bfcb-6e02fadafbe7",
-								"features": {
-									"t_home": 1
-								},
-								"excerpt": "Gallerist Mortimer Chatterjee offers a brief insight into the “Kiran Nadar effect” and what makes her one of the most significant art collectors in India.",
+								"excerpt": "Pheroza Godrej, co-curator of the Framji Dadabhoy Alpaiwalla Museum, gives AD a special tour of the Parsi Museum in Mumbai.",
 								"icon_src": "https://merino-images.services.mozilla.com/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct",
 								"isTimeSensitive": false,
 								"publisher": "AD India",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/e199859a-7821-4d40-9386-697a0e1123d4.jpeg",
-								"received_rank": 15,
-								"recommended_at": 1762419414216,
-								"title": "Is Kiran Nadar the Single Most Important Indian Collector of Art in Our Time?",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/ff87eb99-fb15-4040-93a7-5c92a71383eb.jpeg",
+								"received_rank": 8,
+								"recommended_at": 1762506309991,
+								"title": "Now Reopened, the Parsi Museum in Mumbai Offers a Compelling Insight Into Zoroastrianism",
+								"topic": "arts",
+								"url": "https://www.architecturaldigest.in/story/now-reopened-the-parsi-museum-in-mumbai-offers-a-compelling-insight-into-zoroastrianism/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "c835a558-dd29-4f1e-9bc2-f7a22251f887",
+								"scheduled_corpus_item_id": "aa76b154-7eb7-48c7-a16a-0b6b06e13843",
+								"corpus_item_id": "c835a558-dd29-4f1e-9bc2-f7a22251f887",
+								"features": {
+									"t_health": 1
+								},
+								"excerpt": "Do your muscles ache after every workout, or do you often feel drained even after a full night’s sleep? If yes, your body might be craving magnesium. This powerhouse mineral supports faster muscle recovery, eases cramps, boosts stamina, and helps you feel more energised — both during and after exercise.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/4a7d254cf5884921a258c78f277cd1ce2e9a51e1c6eed7e8bcbd718bd0da2a00_1847.png",
+								"isTimeSensitive": false,
+								"publisher": "Times Now",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/afc4000e-1485-4dd7-b754-355c8f8b6edb.jpeg",
+								"received_rank": 9,
+								"recommended_at": 1762506309991,
+								"title": "Sore Muscles After a Workout? Here’s How Magnesium Can Help You Recover Faster",
+								"topic": "health",
+								"url": "https://www.timesnownews.com/health/sore-muscles-after-a-workout-heres-how-magnesium-can-help-you-recover-faster-article-153110515?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "a424c559-38f5-4170-8d35-a7d72a57e925",
+								"scheduled_corpus_item_id": "6c2c897e-cfd5-4a75-a765-c8a957a734a4",
+								"corpus_item_id": "a424c559-38f5-4170-8d35-a7d72a57e925",
+								"features": {
+									"t_home": 1
+								},
+								"excerpt": "Moody palettes are keepers, say buh bye to stark whites",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/2bb6269ec70a302563c707fe8d6032e1f15765abaae4547769b69ff14d40d3b1_309614.oct",
+								"isTimeSensitive": false,
+								"publisher": "Architectural Digest",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/631be038-756d-422f-97b5-3acb5230390e.jpeg",
+								"received_rank": 10,
+								"recommended_at": 1762506309991,
+								"title": "9 Interior Design Trends Still Chic for 2026—and the Ones on Their Way Out",
 								"topic": "home",
-								"url": "https://www.architecturaldigest.in/story/is-kiran-nadar-the-single-most-important-indian-collector-of-art-in-our-time/?utm_source=firefox-newtab-en-intl",
+								"url": "https://www.architecturaldigest.com/story/interior-design-trends?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							},
 							{
-								"id": "6d272017-17ea-4068-b605-931744701496",
-								"scheduled_corpus_item_id": "fc9346e6-aa5a-4dd6-a6d8-edaaed8d93c4",
-								"corpus_item_id": "6d272017-17ea-4068-b605-931744701496",
-								"features": {
-									"t_government": 1
-								},
-								"excerpt": "The manifestos of both the NDA and the opposition Mahagathbandhan begin with the promise of providing government jobs, as youth from across the state continue to be drawn to coaching centres to provide the ticket to securing a government job.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/b1f147ab878e9a4c4612b6525492f009c4031190a5eb144c5dce7a851c92c352_7986.ico",
-								"isTimeSensitive": true,
-								"publisher": "The Wire",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/ffc774d9-9301-4d11-a600-ea0f83c5dbf7.jpeg",
-								"received_rank": 16,
-								"recommended_at": 1762419414216,
-								"title": "In ‘Young’ Bihar, Race for Elusive Government Jobs Spotlight Unemployment Crisis",
-								"topic": "government",
-								"url": "https://thewire.in/politics/in-young-bihar-race-for-elusive-government-jobs-spotlight-unemployment-crisis?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "a70072d7-fb41-4ed0-a1cf-775ab3f5ee25",
-								"scheduled_corpus_item_id": "a3010b13-c979-4568-affe-dccb861d9ad8",
-								"corpus_item_id": "a70072d7-fb41-4ed0-a1cf-775ab3f5ee25",
-								"features": {
-									"t_business": 1
-								},
-								"excerpt": "The Kerala high court says some of the Sabarimala temple idols have been stripped of their gold covering.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/388231ac048528715ffc2aebad84b58c19231d92156179d21c94d0b98d4f1d9b_751.svg",
-								"isTimeSensitive": false,
-								"publisher": "BBC",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/71905209-24fe-49ea-adfa-c2baad4c3574.webp",
-								"received_rank": 17,
-								"recommended_at": 1762419414216,
-								"title": "Why a popular Hindu temple in India is mired in gold theft row",
-								"topic": "business",
-								"url": "https://www.bbc.com/news/articles/cq834vle4llo?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "b2d462fc-e77f-43e0-9a6d-1b7314c38ac2",
-								"scheduled_corpus_item_id": "1508775c-7f87-439f-b972-a6ee5034c18f",
-								"corpus_item_id": "b2d462fc-e77f-43e0-9a6d-1b7314c38ac2",
-								"features": {
-									"t_society-parenting": 1
-								},
-								"excerpt": "When Nat transitioned, I learned that when someone you love changes, you change, too.",
-								"icon_src": null,
-								"isTimeSensitive": false,
-								"publisher": "The New Yorker",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/2719793b-c4eb-4211-81c8-7e6224dd948d.jpeg",
-								"received_rank": 18,
-								"recommended_at": 1762419414216,
-								"title": "Who My Child Was and Would Be",
-								"topic": "society-parenting",
-								"url": "https://www.newyorker.com/magazine/2025/11/10/who-my-child-was-and-would-be?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "7b226684-4907-46c8-a2ca-269dc43149e4",
-								"scheduled_corpus_item_id": "6d336ceb-5ab1-417b-8a1a-d47e3389cd0e",
-								"corpus_item_id": "7b226684-4907-46c8-a2ca-269dc43149e4",
-								"features": {
-									"t_travel": 1
-								},
-								"excerpt": "With travel providers building “retrograde-proof” packages, over 73% of Gen Z and 64% of millennials are seeking “spiritual” or “star-aligned” trips in 2026",
-								"icon_src": null,
-								"isTimeSensitive": false,
-								"publisher": "News18",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/dc214f82-a49f-450b-a03c-1ac854aa36b8.jpeg",
-								"received_rank": 19,
-								"recommended_at": 1762419414216,
-								"title": "Is Astrology the New Travel Agent? Why People Are Planning Trips by Birth Chart",
-								"topic": "travel",
-								"url": "https://www.news18.com/lifestyle/is-astrology-the-new-travel-agent-why-people-are-planning-trips-by-birth-chart-tyd-ws-el-9681555.html?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "f6b3723f-82d7-4a46-a6fd-35f032820c28",
-								"scheduled_corpus_item_id": "64582d60-7009-40b8-8639-91798e4fb222",
-								"corpus_item_id": "f6b3723f-82d7-4a46-a6fd-35f032820c28",
-								"features": {
-									"t_finance": 1
-								},
-								"excerpt": "With a strong preference for transparency, accessibility and digital convenience, Gen Z is reshaping how education loans are both perceived and repaid. ",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/5c4274b6035876bf60cefe0d0cdf2edd7a4fd70885f8707e412998b1227d4d0a_9589.png",
-								"isTimeSensitive": false,
-								"publisher": "NDTV",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/55114546-bb64-4b33-99c6-603bd9b78758.jpeg",
-								"received_rank": 20,
-								"recommended_at": 1762419414216,
-								"title": "Smart, Savvy, Sorted: Gen Z’s Approach in Navigating Education Financing",
-								"topic": "finance",
-								"url": "https://www.ndtvprofit.com/opinion/student-loans-smart-savvy-sorted-gen-z-approach-in-navigating-education-financing-repayment-income?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "0577b393-97c5-438a-abee-899bc8e83269",
-								"scheduled_corpus_item_id": "b123c8c8-da93-4936-b138-ee9c4fc1fb9d",
-								"corpus_item_id": "0577b393-97c5-438a-abee-899bc8e83269",
-								"features": {
-									"t_health": 1
-								},
-								"excerpt": "TikTok suggests that it may be time to put down the latte. ",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/529ade2406cf11a457ff2b94d6c59bd35cc981d328009901c384be3d7f24c926_6521.png",
-								"isTimeSensitive": false,
-								"publisher": "Elle",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/98e1ad10-51ed-4a70-89a2-807dc1f12655.jpeg",
-								"received_rank": 21,
-								"recommended_at": 1762419414216,
-								"title": "Does Drinking Matcha Really Cause Hair Loss? Experts Weigh In",
-								"topic": "health",
-								"url": "https://www.elle.com/beauty/hair/a69076436/matcha-hair-loss-explained-2025/?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "9357587c-726a-4c2d-9807-1d7934c9131e",
-								"scheduled_corpus_item_id": "479fe222-0cfa-4afe-8e76-bf8488d0932a",
-								"corpus_item_id": "9357587c-726a-4c2d-9807-1d7934c9131e",
-								"features": {
-									"t_health": 1
-								},
-								"excerpt": "Hara hachi bu is an eating practice followed by some of the world’s oldest people.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/893396eaa6fda2f65ae0dc35f7d2b021e634ffff35978ce4240cdd7ff9eedb6a_257164.png",
-								"isTimeSensitive": false,
-								"publisher": "The Conversation",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/bf960ca6-ad83-4038-873f-757a5f7214af.jpeg",
-								"received_rank": 22,
-								"recommended_at": 1762419414216,
-								"title": "Is It Healthier to Only Eat Until You’re 80% Full? The Japanese Philosophy of Hara Hachi Bu",
-								"topic": "health",
-								"url": "https://theconversation.com/is-it-healthier-to-only-eat-until-youre-80-full-the-japanese-philosophy-of-hara-hachi-bu-268008?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "ea293291-c8bc-45fe-b0da-1880cd9f32ac",
-								"scheduled_corpus_item_id": "e15c1d29-8e6a-4c2f-a2aa-418af191710f",
-								"corpus_item_id": "ea293291-c8bc-45fe-b0da-1880cd9f32ac",
-								"features": {
-									"t_travel": 1
-								},
-								"excerpt": "These equestrian retreats are not all galloping into the sunset—instead, they’re about connecting through breathwork, somatic awareness, and meditative herd immersion.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/82a83b00f1e03a653755ce89f3da2acab1fe5fe3cff3acf17774d657d87a0ec5_34494.oct",
-								"isTimeSensitive": false,
-								"publisher": "Vogue",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/f7a123c2-6037-4c56-8766-97078320626b.jpeg",
-								"received_rank": 23,
-								"recommended_at": 1762419414216,
-								"title": "The Women-Led Equestrian Retreats Redefining How We Heal With Horses",
-								"topic": "travel",
-								"url": "https://www.vogue.com/article/equestrian-retreats-horse-healing?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "e910991b-a48d-4e2c-b891-40565636f3d3",
-								"scheduled_corpus_item_id": "75a99ff3-9c56-4814-97f5-1cbe67926b6e",
-								"corpus_item_id": "e910991b-a48d-4e2c-b891-40565636f3d3",
-								"features": {
-									"t_business": 1
-								},
-								"excerpt": "Your morning brew may contain microscopic debris.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/6bdc80aaa6508bbb127c62edd064b3228c6d36877042236992650de6e35558d6_2342.png",
-								"isTimeSensitive": false,
-								"publisher": "Time",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/b58f3457-ce9f-4aa6-b15c-ed6def422634.png",
-								"received_rank": 24,
-								"recommended_at": 1762419414216,
-								"title": "What Happens to the Plastic in Single-Serve Coffee Pods?",
-								"topic": "business",
-								"url": "https://time.com/7331064/coffee-pods-plastic/?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "62cd9217-10b7-4e01-83e8-ff826573d94e",
-								"scheduled_corpus_item_id": "5d67c108-69c8-4ee3-8838-b1232b79b5e5",
-								"corpus_item_id": "62cd9217-10b7-4e01-83e8-ff826573d94e",
-								"features": {
-									"t_education-science": 1
-								},
-								"excerpt": "New database built with over 100,000 Arapaho sentences.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/b1a0b349fa07840cf02c9b65d7dcabace2fc89cae46453b5854dea5535361dad_6738.webp",
-								"isTimeSensitive": false,
-								"publisher": "Popular Science",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/3b1877dd-223c-4b13-963f-817e9c669ba9.png",
-								"received_rank": 25,
-								"recommended_at": 1762419414216,
-								"title": "Digital Linguists Work to Save the Arapaho Language",
-								"topic": "education-science",
-								"url": "https://www.popsci.com/science/linguists-arapaho-language/?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "91e23e24-5a00-4dca-9ddd-736032465986",
-								"scheduled_corpus_item_id": "60011d1d-9800-4e6b-82cb-5cd68056175e",
-								"corpus_item_id": "91e23e24-5a00-4dca-9ddd-736032465986",
-								"features": {
-									"t_business": 1
-								},
-								"excerpt": "These simple steps to take early on in any negotiation will save time and money and increase the likelihood that the arrangement will be one you can live with.",
-								"icon_src": null,
-								"isTimeSensitive": false,
-								"publisher": "Inc. Magazine",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/b0cede1d-f131-432a-875b-0cfd50427811.webp",
-								"received_rank": 26,
-								"recommended_at": 1762419414216,
-								"title": "4 Keys to Making a Deal That’s a Keeper",
-								"topic": "business",
-								"url": "https://www.inc.com/howard-tullman/keys-to-making-a-deal-negotiating-tips/91259407?utm_source=firefox-newtab-en-intl",
-								"score": 1
-							},
-							{
-								"id": "2ed99dbe-0c90-4611-a453-85783d2a9f64",
-								"scheduled_corpus_item_id": "c19c5a20-acd7-471c-bf3f-7c05ca59e209",
-								"corpus_item_id": "2ed99dbe-0c90-4611-a453-85783d2a9f64",
+								"id": "bc22ad00-4fae-40df-87e0-7995ff90fc2c",
+								"scheduled_corpus_item_id": "67462b77-526f-4be2-91e4-e8003942651e",
+								"corpus_item_id": "bc22ad00-4fae-40df-87e0-7995ff90fc2c",
 								"features": {
 									"t_career": 1
 								},
-								"excerpt": "Hyper-independent performers look like stars until they burn out and it breaks the team around them.",
-								"icon_src": "https://merino-images.services.mozilla.com/favicons/1564ab97026d69c012761382e091d1ef012bc6ebf5bdd34308bbe30b42a91fc1_169662.ico",
+								"excerpt": "The age group don’t expect to see the same professional growth their parents had.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/8a5cf405c8e7c3f51599fffb8036c6a1ac1f212ed01082cd9b7dc2fe908f240b_201614.ico",
 								"isTimeSensitive": false,
-								"publisher": "Fast Company",
-								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/c52c6fe3-61e8-4792-aa64-9071596988a2.webp",
-								"received_rank": 27,
-								"recommended_at": 1762419414216,
-								"title": "Why hyper-independence is undermining your best people",
+								"publisher": "HuffPost UK",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/07a8c36b-9e78-4570-8bfa-25959050a78b.jpeg",
+								"received_rank": 11,
+								"recommended_at": 1762506309991,
+								"title": "Most Gen Z Workers Think The Career Ladder Is Dead",
 								"topic": "career",
-								"url": "https://www.fastcompany.com/91428660/why-hyper-independence-is-undermining-your-best-people?utm_source=firefox-newtab-en-intl",
+								"url": "https://www.huffingtonpost.co.uk/entry/most-gen-z-workers-think-the-career-ladder-is-dead_uk_690b25cee4b09953a605e3dc?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "2f7744dc-8165-4721-98bd-1a44da43bdf1",
+								"scheduled_corpus_item_id": "083a4174-159f-4407-b984-bcef027f50ba",
+								"corpus_item_id": "2f7744dc-8165-4721-98bd-1a44da43bdf1",
+								"features": {
+									"t_arts": 1
+								},
+								"excerpt": "Sculptor Mrinalini Mukherjee is the focus of a major exhibition charting hundred years of Indian art history at London's Royal Academy of Arts.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct",
+								"isTimeSensitive": false,
+								"publisher": "AD India",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/a85e0f86-8b03-4f79-acad-982652b783d7.jpeg",
+								"received_rank": 12,
+								"recommended_at": 1762506309991,
+								"title": "Sculptor Mrinalini Mukherjee’s Exceptional Career Gets the Spotlight at London’s Royal Academy of Arts",
+								"topic": "arts",
+								"url": "https://www.architecturaldigest.in/story/sculptor-mrinalini-mukherjees-extraordinary-career-gets-spotlight-at-londons-royal-academy-of-arts/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "c0b0db14-961d-4a68-9199-dcea20f58cf7",
+								"scheduled_corpus_item_id": "2a059788-63d5-433a-9f5f-fe5b8e87547c",
+								"corpus_item_id": "c0b0db14-961d-4a68-9199-dcea20f58cf7",
+								"features": {
+									"t_education": 1
+								},
+								"excerpt": "Thank you for spending the time, reader.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/6bdc80aaa6508bbb127c62edd064b3228c6d36877042236992650de6e35558d6_2342.png",
+								"isTimeSensitive": false,
+								"publisher": "Time",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/c35153d1-9a83-4fd7-91bf-30c4878e080b.png",
+								"received_rank": 13,
+								"recommended_at": 1762506309991,
+								"title": "7 Polite Phrases That Are Still Worth Saying",
+								"topic": "education",
+								"url": "https://time.com/7330991/polite-phrases-etiquette-modern-manners/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "27aac59d-144f-49c4-83bc-b7eb395ac0b0",
+								"scheduled_corpus_item_id": "6f34266f-a823-4047-88d1-56fe9f19d450",
+								"corpus_item_id": "27aac59d-144f-49c4-83bc-b7eb395ac0b0",
+								"features": {
+									"t_health": 1
+								},
+								"excerpt": "Metacognition — the ability to think about your thinking — can help you learn faster and make better decisions.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/b9eab4f6b7b0c08d6ca68ef8fb08252b3b0a8ed823a2e9affdaf8471863c34cf_574.webp",
+								"isTimeSensitive": false,
+								"publisher": "Big Think",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/491d96f0-8b25-45fe-a9c1-2dd9ec2d79ed.jpeg",
+								"received_rank": 14,
+								"recommended_at": 1762506309991,
+								"title": "Want to be a better learner? Start by noticing how you think.",
+								"topic": "health",
+								"url": "https://bigthink.com/thinking/learn-with-metacognition/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "5b5d7ace-d206-437e-9c06-d5c5a06e55eb",
+								"scheduled_corpus_item_id": "c6bf35f8-1b08-492e-a8ae-8babe51d0c90",
+								"corpus_item_id": "5b5d7ace-d206-437e-9c06-d5c5a06e55eb",
+								"features": {
+									"t_sports": 1
+								},
+								"excerpt": "FIFA announced a new annual award called the FIFA Peace Prize which will be given to its first winner during the 2026 World Cup finals draw in Washington D.C. next month, world soccer's governing body said on Wednesday.",
+								"icon_src": null,
+								"isTimeSensitive": true,
+								"publisher": "Telegraph India",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/7382ce9b-1a17-468e-ac40-de543449a2e8.jpeg",
+								"received_rank": 15,
+								"recommended_at": 1762506309991,
+								"title": "Fifa to Present First-Ever Peace Prize at 2026 World Cup Draw in Washington DC",
+								"topic": "sports",
+								"url": "https://www.telegraphindia.com/sports/football/fifa-to-present-first-ever-peace-prize-at-2026-world-cup-draw-in-washington-dc/cid/2131420?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "df19715d-9a37-46a6-82a8-9a0baa22220b",
+								"scheduled_corpus_item_id": "d1995841-80c3-48ef-8bff-7cef7efc9973",
+								"corpus_item_id": "df19715d-9a37-46a6-82a8-9a0baa22220b",
+								"features": {
+									"t_society": 1
+								},
+								"excerpt": "Why saying no is harder than it should be.",
+								"icon_src": null,
+								"isTimeSensitive": false,
+								"publisher": "Scientific American",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/d3d41974-1cfc-4fed-af29-cadde4ebfa02.jpeg",
+								"received_rank": 16,
+								"recommended_at": 1762506309991,
+								"title": "Why We’re Wired to Obey—And How to Reclaim Your Voice",
+								"topic": "society",
+								"url": "https://www.scientificamerican.com/podcast/episode/the-psychology-behind-standing-up-and-saying-no/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "4a33ae85-d57c-420a-87c6-357078aac4a0",
+								"scheduled_corpus_item_id": "f36a8da7-d2ee-4a20-8b95-c8ca85a72631",
+								"corpus_item_id": "4a33ae85-d57c-420a-87c6-357078aac4a0",
+								"features": {
+									"t_government": 1
+								},
+								"excerpt": "Bihar manufacturing growth, Bihar growth rate analysis: Bihar’s overall base of economic activity is small. Its growth rates can thus flatter to deceive. With elections around the corner, we look at the state when compared to others like Uttar Pradesh, Maharashtra, and Kerala.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/f7e61d313a7ce7debf61bbe6a1c9680dd3e8b7c1ccd1b2f0c9fddab7cb516852_93062.ico",
+								"isTimeSensitive": true,
+								"publisher": "The Indian Express",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/48fdc2f1-343d-49d4-aa7b-32abfc30d141.jpeg",
+								"received_rank": 17,
+								"recommended_at": 1762506309991,
+								"title": "ExplainSpeaking: Has Bihar’s Growth Reduced the Gap With the Rest of India?",
+								"topic": "government",
+								"url": "https://indianexpress.com/article/explained/explained-economics/explainspeaking-bihar-elections-growth-comparison-india-10349255/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "edcd4d75-3979-48df-a5c6-224b6f12617b",
+								"scheduled_corpus_item_id": "8d092c79-e9d2-4355-a1de-257c046713fb",
+								"corpus_item_id": "edcd4d75-3979-48df-a5c6-224b6f12617b",
+								"features": {
+									"t_travel": 1
+								},
+								"excerpt": "Whether you long for the thrill of adventure, to explore new cultural landmarks or to rediscover some of the world's greatest cities, Asia has it all ",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/cd106eb7ed622a5a6cac356a451ba55490d5d67091ef5cd5202a139814aa06fb_7406.oct",
+								"isTimeSensitive": false,
+								"publisher": "Condé Nast Traveller",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/089d986d-d089-4db9-9f0a-467301379788.jpeg",
+								"received_rank": 18,
+								"recommended_at": 1762506309991,
+								"title": "The Best Places to Go in Asia in 2026",
+								"topic": "travel",
+								"url": "https://www.cntraveller.com/article/best-places-to-go-asia-2026?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "5a2d188c-dfc5-4cfb-8f18-96d101e3a1a3",
+								"scheduled_corpus_item_id": "ee4b5f42-bae4-48d6-9aa4-f6728de3fcf5",
+								"corpus_item_id": "5a2d188c-dfc5-4cfb-8f18-96d101e3a1a3",
+								"features": {
+									"t_society-parenting": 1
+								},
+								"excerpt": "Two new animated films, \"Arco\" and \"Little Amélie,\" teach kids how to relish joy in a dark and scary world.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/2256152770f95ddd0f4cd5393ba94d29ddb1765519adeb24040ce7f6db4afb27_8026.png",
+								"isTimeSensitive": false,
+								"publisher": "Salon",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/dcf78ce5-50a8-4738-a02d-cd8830dcd98e.jpeg",
+								"received_rank": 19,
+								"recommended_at": 1762506309991,
+								"title": "It’s a Rough World Out There. Kids Deserve to Know",
+								"topic": "society-parenting",
+								"url": "https://www.salon.com/2025/11/05/little-amelie-arco-truthful-animation-for-kids/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "74158ad8-c9c6-49f6-af11-ebb080541b7f",
+								"scheduled_corpus_item_id": "e97a1372-bca0-4490-b0ed-ddbea890950b",
+								"corpus_item_id": "74158ad8-c9c6-49f6-af11-ebb080541b7f",
+								"features": {
+									"t_business": 1
+								},
+								"excerpt": "Summary. A decade after Samsung’s Family Hub Refrigerator symbolized the smart home revolution, “smartness” alone no longer sells. Although the smart home products industry is projected to hit $537 billion by 2030,...more.",
+								"icon_src": null,
+								"isTimeSensitive": false,
+								"publisher": "Harvard Business Review",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/f5bb6762-63f8-46f6-97d4-37a995d3e7f3.jpeg",
+								"received_rank": 20,
+								"recommended_at": 1762506309991,
+								"title": "The 3 Types of Customers Who Buy Smart Products—and How to Market to Them",
+								"topic": "business",
+								"url": "https://hbr.org/2025/11/the-3-types-of-customers-who-buy-smart-products-and-how-to-market-to-them?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "cb4ad02f-d835-46ee-8b4b-3e9ae9323e7f",
+								"scheduled_corpus_item_id": "ff283f10-276f-4a46-99d9-1179acfaf6d3",
+								"corpus_item_id": "cb4ad02f-d835-46ee-8b4b-3e9ae9323e7f",
+								"features": {
+									"t_business": 1
+								},
+								"excerpt": "GCCs are looking to hire leadership roles in India as firms move critical R&D and IP to these centers. ",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/933245505bb30ea3f2197c871633c272112466d7e0a111cfc238ea4867950db8_15406.oct",
+								"isTimeSensitive": false,
+								"publisher": "CNBC",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/882079e3-408b-410a-9dfa-d1f62171af82.jpeg",
+								"received_rank": 21,
+								"recommended_at": 1762506309991,
+								"title": "CNBC’s Inside India Newsletter: India’s ‘Back Offices’ Are Evolving Into Leadership Hubs for Global Companies",
+								"topic": "business",
+								"url": "https://www.cnbc.com/2025/11/06/cnbcs-inside-india-newsletter-indias-back-offices-are-evolving-into-leadership-hubs-for-global-companies.html?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "28b68356-b7cb-40dc-8acd-89a4ce1aed70",
+								"scheduled_corpus_item_id": "02ee4142-f7a0-4e6e-9f15-53eb6b56e1dd",
+								"corpus_item_id": "28b68356-b7cb-40dc-8acd-89a4ce1aed70",
+								"features": {
+									"t_government": 1
+								},
+								"excerpt": "More than 74 million people in Bihar are eligible to vote in a key election that kicks off on Thursday.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/388231ac048528715ffc2aebad84b58c19231d92156179d21c94d0b98d4f1d9b_751.svg",
+								"isTimeSensitive": true,
+								"publisher": "BBC",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/bddac7da-3a2e-425d-98d2-089ee87848b7.jpeg",
+								"received_rank": 22,
+								"recommended_at": 1762506309991,
+								"title": "Modi’s Party Faces Test in Crucial Indian State Election",
+								"topic": "government",
+								"url": "https://www.bbc.com/news/articles/cx2yl78kw7go?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "d85f893b-1fe3-4cf5-bd8c-e382d74241dd",
+								"scheduled_corpus_item_id": "fc67fe2b-91f3-4d00-abb0-2b0d80903b39",
+								"corpus_item_id": "d85f893b-1fe3-4cf5-bd8c-e382d74241dd",
+								"features": {
+									"t_career": 1
+								},
+								"excerpt": "More Indian teenagers are choosing the Arts stream after Class 10, signalling a shift in career preferences. This trend challenges STEM dominance but calls for better support from policymakers and employers.",
+								"icon_src": null,
+								"isTimeSensitive": false,
+								"publisher": "India Today",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/67d1bc83-c8b3-487d-859e-3a6023dc2cf3.jpeg",
+								"received_rank": 23,
+								"recommended_at": 1762506309991,
+								"title": "More Students Pick Arts, but India’s Jobs Still Belong to Science",
+								"topic": "career",
+								"url": "https://www.indiatoday.in/education-today/featurephilia/story/arts-stream-rise-india-careers-psychology-media-law-design-2814582-2025-11-06?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "36c80fee-8760-47e1-9f86-a2ae000b361a",
+								"scheduled_corpus_item_id": "f12e2e8d-ad85-4af4-a2b4-b98541da4f0a",
+								"corpus_item_id": "36c80fee-8760-47e1-9f86-a2ae000b361a",
+								"features": {
+									"t_hobbies": 1
+								},
+								"excerpt": "It's a lot more complicated than you think",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/837fa613f5dc0f91e1679360eda2a9d1fc8f9698e0e693f5287bd1ee826d551e_8989.png",
+								"isTimeSensitive": false,
+								"publisher": "Polygon",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/aee91f54-610e-4bd1-b652-a8280891791f.jpeg",
+								"received_rank": 24,
+								"recommended_at": 1762506309991,
+								"title": "What even is game direction? We asked 16 game directors",
+								"topic": "hobbies",
+								"url": "https://www.polygon.com/game-direction-explained-by-directors/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "17e39a8e-e9ae-4fd0-bf41-7301b22375cd",
+								"scheduled_corpus_item_id": "d6e2d2a4-01eb-4974-b62d-1f615bd1f5b4",
+								"corpus_item_id": "17e39a8e-e9ae-4fd0-bf41-7301b22375cd",
+								"features": {
+									"t_education-science": 1
+								},
+								"excerpt": "A sudden flash of insight is a product of your brain. Neuroscientists track the neural activity underlying an “aha” and how it might boost memory.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/1b23d71e163364b53d872a27ffcaf90ec7496b24d50a59ea95362b897b3561c4_3233.png",
+								"isTimeSensitive": false,
+								"publisher": "Quanta Magazine",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/484121bc-08d8-4af7-8da8-7d67fbcdc80d.jpeg",
+								"received_rank": 25,
+								"recommended_at": 1762506309991,
+								"title": "How Your Brain Creates ‘Aha’ Moments and Why They Stick",
+								"topic": "education-science",
+								"url": "https://www.quantamagazine.org/how-your-brain-creates-aha-moments-and-why-they-stick-20251105/?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "ccb3d28e-6aa5-4cef-a31b-086fec8f4795",
+								"scheduled_corpus_item_id": "2dfd9830-2c53-475e-9002-6eb70046ae6c",
+								"corpus_item_id": "ccb3d28e-6aa5-4cef-a31b-086fec8f4795",
+								"features": {
+									"t_finance": 1
+								},
+								"excerpt": "Upskill to stay relevant. Allocate 5-10 percent of income for continuous learning, leveraging government incentives and tracking ROI to transform expense into equity and future-proof your career",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/b559ed1098135f9eb12575f5d5af6870ab7114485e7532b1f25e1f68778e1525_169489.oct",
+								"isTimeSensitive": false,
+								"publisher": "Moneycontrol",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/9021b036-71e9-4b53-b81b-2ce90459ef82.jpeg",
+								"received_rank": 26,
+								"recommended_at": 1762506309991,
+								"title": "Don’t Let Stagnation Erode Your Earnings, Invest in Upskilling",
+								"topic": "finance",
+								"url": "https://www.moneycontrol.com/news/business/personal-finance/don-t-let-stagnation-erode-your-earnings-invest-in-upskilling-13657151.html?utm_source=firefox-newtab-en-intl",
+								"score": 1
+							},
+							{
+								"id": "edf74eaa-8fc6-4fcb-9d35-5e6fc17b6c8e",
+								"scheduled_corpus_item_id": "6ec3b044-72b1-4c87-a46a-4c685f9d5896",
+								"corpus_item_id": "edf74eaa-8fc6-4fcb-9d35-5e6fc17b6c8e",
+								"features": {
+									"t_home": 1
+								},
+								"excerpt": "Want a well-stocked bar in your living room without making it overly obtrusive? These hidden home bar designs have you covered.",
+								"icon_src": "https://merino-images.services.mozilla.com/favicons/8d3df1e947c3b44cafb0fb4887d58fc7f1b3f10c10d593d5bedf17e311d05561_309614.oct",
+								"isTimeSensitive": false,
+								"publisher": "AD India",
+								"raw_image_src": "https://s3.us-east-1.amazonaws.com/pocket-curatedcorpusapi-prod-images/8cd80ccb-8979-4852-a606-53b4b7b0d9bb.jpeg",
+								"received_rank": 27,
+								"recommended_at": 1762506309991,
+								"title": "7 Concealed Home Bar Designs for Your Own Personal Speakeasy",
+								"topic": "home",
+								"url": "https://www.architecturaldigest.in/story/7-concealed-home-bar-designs-for-your-own-personal-speakeasy/?utm_source=firefox-newtab-en-intl",
 								"score": 1
 							}
 						],
@@ -1717,6 +1719,22 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"theme": "dark",
+				"title": "firefox-b",
+				"schema": 1762451289464,
+				"category": "firefox",
+				"attachment": {
+					"hash": "0483fd7bb1054d61301e9fcb2752009a6466f5213933f72dddd66ff909e239a2",
+					"size": 286845,
+					"filename": "desktop-wallpaper-b-1920x1080.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/6f7e2155-df50-4917-81fd-9c6f16e14965.svg",
+					"mimetype": "image/svg+xml"
+				},
+				"id": "1d43f5a1-64bd-4ad4-b825-88a89878662f",
+				"last_modified": 1762459339482,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/6f7e2155-df50-4917-81fd-9c6f16e14965.svg"
+			},
+			{
+				"theme": "dark",
 				"title": "starry-canyon",
 				"schema": 1744046191375,
 				"category": "photographs",
@@ -1817,6 +1835,22 @@ window.__STARTUP_STATE__ = {
 				"last_modified": 1718647622932
 			},
 			{
+				"theme": "light",
+				"title": "firefox-f",
+				"schema": 1762456642236,
+				"category": "firefox",
+				"attachment": {
+					"hash": "07e565c12279637b52212d1cf0d4f23039e743e6623896f7e72bc1e6f05be974",
+					"size": 6463,
+					"filename": "desktop-wallpaper-f-1920x1080.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/9b9d40c7-a3bf-4058-836a-2ce378e8daf5.svg",
+					"mimetype": "image/svg+xml"
+				},
+				"id": "2bf99683-cde8-438b-9f8e-a1222dc7f59c",
+				"last_modified": 1762459339496,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/9b9d40c7-a3bf-4058-836a-2ce378e8daf5.svg"
+			},
+			{
 				"theme": "dark",
 				"title": "dark-mountain",
 				"schema": 1718637174316,
@@ -1845,6 +1879,22 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"theme": "dark",
+				"title": "firefox-e",
+				"schema": 1762451428827,
+				"category": "firefox",
+				"attachment": {
+					"hash": "fe1cb48a30da9b05ba14b550918f708953ee6e44fa5a878bcbc5d3d7963176ad",
+					"size": 4567,
+					"filename": "desktop-wallpaper-e-1920x1080.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/0b039df1-971b-445a-84f6-6a15da08940e.svg",
+					"mimetype": "image/svg+xml"
+				},
+				"id": "2e468f89-ac6a-474f-a789-5de0be601887",
+				"last_modified": 1762459339477,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/0b039df1-971b-445a-84f6-6a15da08940e.svg"
+			},
+			{
+				"theme": "dark",
 				"title": "dark-green",
 				"schema": 1718644346535,
 				"category": "solid-colors",
@@ -1852,6 +1902,22 @@ window.__STARTUP_STATE__ = {
 				"solid_color": "#19310D",
 				"id": "35f8a180-8579-461d-be72-3d5d889dba62",
 				"last_modified": 1718647622929
+			},
+			{
+				"theme": "light",
+				"title": "firefox-c",
+				"schema": 1762451342038,
+				"category": "firefox",
+				"attachment": {
+					"hash": "7785790af185a3eca30177b678ab590773b209149dc14167a61044f8abdc7e1a",
+					"size": 14552,
+					"filename": "desktop-wallpaper-c-1920x1080.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/ae9afcad-83a6-49c5-91b3-8fbea798b88f.svg",
+					"mimetype": "image/svg+xml"
+				},
+				"id": "429c288c-8d92-4baa-aefb-a04719882454",
+				"last_modified": 1762459339487,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/ae9afcad-83a6-49c5-91b3-8fbea798b88f.svg"
 			},
 			{
 				"theme": "light",
@@ -1891,6 +1957,22 @@ window.__STARTUP_STATE__ = {
 				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/6b8eb3cf-f232-4c7b-a179-afd174555134.avif"
 			},
 			{
+				"theme": "dark",
+				"title": "firefox-a",
+				"schema": 1762457227299,
+				"category": "firefox",
+				"attachment": {
+					"hash": "dfdeb8a64fc3a5c9d160472bc10467acc3e3ffba51da05c7b222a1315dd8a1f4",
+					"size": 19020,
+					"filename": "desktop-wallpaper-a-1920x1080.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/e08c3e8c-4bda-48e4-8f36-a1d203f46536.svg",
+					"mimetype": "image/svg+xml"
+				},
+				"id": "451090be-cdf1-49fc-b1f3-bd2f3b4ac34d",
+				"last_modified": 1762459339500,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/e08c3e8c-4bda-48e4-8f36-a1d203f46536.svg"
+			},
+			{
 				"theme": "light",
 				"title": "orange",
 				"schema": 1718644150837,
@@ -1926,6 +2008,22 @@ window.__STARTUP_STATE__ = {
 				"id": "604378cd-ff54-4219-bed3-137889283c5e",
 				"last_modified": 1718906680002,
 				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/becfadf4-4c2d-4fad-bbbc-b060d12277e5.avif"
+			},
+			{
+				"theme": "light",
+				"title": "firefox-d",
+				"schema": 1762451361798,
+				"category": "firefox",
+				"attachment": {
+					"hash": "74988ebbc20bbc957f9b082793fea4f667e307aea3e873ba01a4f094e26e8452",
+					"size": 26913,
+					"filename": "desktop-wallpaper-d-1920x1080.svg",
+					"location": "main-workspace/newtab-wallpapers-v2/3640c0ff-19a2-4f7b-a06a-fdc2232ddd4a.svg",
+					"mimetype": "image/svg+xml"
+				},
+				"id": "62aa72d9-b9f3-4f29-88f5-5120ee004e7c",
+				"last_modified": 1762459339491,
+				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/3640c0ff-19a2-4f7b-a06a-fdc2232ddd4a.svg"
 			},
 			{
 				"theme": "light",
@@ -2336,8 +2434,9 @@ window.__STARTUP_STATE__ = {
 				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/966b18ad-3733-41c4-92f6-c89cdf1381d0.avif"
 			},
 			{
+				"theme": "dark",
 				"title": "blue-purple",
-				"schema": 1741985046914,
+				"schema": 1756865736197,
 				"category": "abstracts",
 				"fluent_id": "newtab-wallpaper-abstract-blue-purple",
 				"attachment": {
@@ -2358,7 +2457,7 @@ window.__STARTUP_STATE__ = {
 					}
 				},
 				"id": "b33cf5ec-52c4-4220-be05-1a3d4c998443",
-				"last_modified": 1742232562519,
+				"last_modified": 1762459339471,
 				"wallpaperUrl": "https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/newtab-wallpapers-v2/036ac885-33cb-41db-bcbb-52dd49254a12.avif"
 			},
 			{
@@ -2656,6 +2755,7 @@ window.__STARTUP_STATE__ = {
 			"abstracts",
 			"solid-colors",
 			"photographs",
+			"firefox",
 			"celestial",
 			"custom-wallpaper"
 		],
@@ -2677,4 +2777,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-e�}P�           ig�H�e����       :about:home alt-data 1;67238,script version 20251028100515  ��
+(` 8]           i�KH�L�����       :about:home alt-data 1;67986,script version 20251028100515  ��
