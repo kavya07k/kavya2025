@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/kavya/.cache/ibus/dbus-Vkbqtcqo,guid=dd935760ba7d25000aa56df6690c6107
-IBUS_DAEMON_PID=1406
+IBUS_ADDRESS=unix:abstract=/home/kavya/.cache/ibus/dbus-0eKdjVAu,guid=8ec7531572c316f867ab0887691470e5
+IBUS_DAEMON_PID=1478
